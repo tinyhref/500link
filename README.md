@@ -1,4 +1,5 @@
-<h1 align="center"><a target="_blank" href="https://500link.com">500link</a></h1>
+<div align="center"><a target="_blank" href="https://tinyhref.com"><img src="public/images/logo-tinyhref.png" height="128" alt="tinyhref"/></a></div>
+<h1 align="center"><a target="_blank" href="https://500link.com">500link</a> - TinyHref</h1>
 <p align="center">Introducing new products, find inspiration and new ideas</p>
 
 <h4 align="center"><a target="_blank" href="https://500link.com/launch/all">All</a> · <a target="_blank" href="https://500link.com/launch/today">Today</a> · <a target="_blank" href="https://500link.com/submit">Submit</a></h4>
