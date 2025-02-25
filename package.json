@@ -1,0 +1,20 @@
+{
+  "name": "500link",
+  "version": "0.0.0",
+  "description": "Awesome lists link about all kinds of topics",
+  "keywords": [
+    "500link",
+    "tinyhref",
+    "awesome",
+    "lists"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "TinyHref",
+    "website": "https://500link.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/500link"
+  }
+}
