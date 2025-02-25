@@ -1,7 +1,11 @@
-<h1 align="center"><a target="_blank" href="https://500link.com">500link</a></h1>
+<div align="center"><a target="_blank" href="https://tinyhref.com"><img src="public/images/logo-tinyhref.png" height="128" alt="tinyhref"/></a></div>
+<h1 align="center"><a target="_blank" href="https://500link.com">500link</a> - TinyHref</h1>
 <p align="center">Introducing new products, find inspiration and new ideas</p>
 
-<h4 align="center"><a target="_blank" href="https://500link.com/launch/all">All</a> · <a target="_blank" href="https://500link.com/launch/today">Today</a> · <a target="_blank" href="https://500link.com/submit">Submit</a></h4>
+<div align="center"><a target="_blank" href="https://500link.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
+<a target="_blank" href="https://x.com/intent/follow?screen_name=tinyhref"><img src="https://img.shields.io/twitter/follow/tinyhref" alt="submit"/></a></div>
+
+<h4 align="center"><a target="_blank" href="https://500link.com/launch/all">All</a> · <a target="_blank" href="https://500link.com/launch/today">Today</a></h4>
 
 <h4 align="center"><a target="_blank" href="https://500link.com/launch/game">Game</a> · <a target="_blank" href="https://500link.com/launch/tool">Tool</a> · <a target="_blank" href="https://500link.com/launch/ai">AI</a> · <a target="_blank" href="https://500link.com/launch/startup">StartUp</a> · <a target="_blank" href="https://500link.com/launch/application">Application</a> · <a target="_blank" href="https://500link.com/launch/channel">Channel</a> · <a target="_blank" href="https://500link.com/launch/community">Community</a> · <a target="_blank" href="https://500link.com/launch/ecommerce">Ecommerce</a> · <a target="_blank" href="https://500link.com/launch/open-source">Open Source</a> · <a target="_blank" href="https://500link.com/launch/web3">Web3</a> · <a target="_blank" href="https://500link.com/launch/no-code">No Code</a></h4>
 
