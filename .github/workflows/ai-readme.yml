@@ -1,0 +1,38 @@
+name: Update topic AI from URL
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-topic-ai:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create topics directory if not exists
+        run: mkdir -p topics
+
+      - name: Fetch data from URL
+        run: |
+          curl -s https://tinyhref.com/launch/ai/readme -o topics/ai.md
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add topics/ai.md
+          git commit -m "🤖 Auto-update" || exit 0
+          git push --force origin main
+
+      - name: Debug Git Changes
+        run: |
+          git status
+          git diff    
