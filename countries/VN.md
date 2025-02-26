@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/Ct2G0eR.jpeg" alt="IndieBoosting"/> <a target="_blank" href="https://500link.com/indieboosting">IndieBoosting</a> - Indie makers unite: feature, support, succeed.</div>
 <div><img width="16" src="https://i.imgur.com/GtwsHvB.jpeg" alt="Binsoo"/> <a target="_blank" href="https://500link.com/binsoo">Binsoo</a> - Photo filters &amp; editor.</div>
 <div><img width="16" src="https://i.imgur.com/gpoybl3.jpeg" alt="YEScale"/> <a target="_blank" href="https://500link.com/yescale">YEScale</a> - Scale Your AI. Instantly.</div>
 <div><img width="16" src="https://i.imgur.com/BU156hf.gif" alt="Diaflow.io"/> <a target="_blank" href="https://500link.com/diaflow">Diaflow.io</a> - Be the hero of your company with powerful automation &amp; apps.</div>
