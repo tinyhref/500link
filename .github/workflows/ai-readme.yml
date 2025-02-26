@@ -3,6 +3,9 @@ name: Update topic AI from URL
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-topic-ai:

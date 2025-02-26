@@ -3,6 +3,9 @@ name: Update country VN from URL
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-country-VN:
