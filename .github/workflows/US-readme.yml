@@ -1,0 +1,45 @@
+name: Update country US from URL
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-country-US:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          ref: main
+
+      - name: Create topics directory if not exists
+        run: mkdir -p countries
+
+      - name: Fetch data from URL
+        run: |
+          curl -s https://tinyhref.com/launch/readme?country=US -o countries/US.md
+
+      - name: Pull latest changes safely
+        run: |
+          if ! git diff --quiet; then
+            git stash
+            git pull --rebase origin main
+            git stash pop || true
+          else
+            git pull --rebase origin main
+          fi
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add countries/US.md
+          git commit -m "🤖 auto-update" || exit 0
+          git push --force origin main  
