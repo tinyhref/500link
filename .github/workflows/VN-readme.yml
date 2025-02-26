@@ -14,6 +14,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+          ref: main
 
       - name: Create topics directory if not exists
         run: mkdir -p countries
@@ -22,15 +23,13 @@ jobs:
         run: |
           curl -s https://tinyhref.com/launch/readme?country=VN -o countries/VN.md
 
+      - name: Pull latest changes before committing
+        run: git pull --rebase origin main
+
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add countries/VN.md
           git commit -m "🤖 auto-update" || exit 0
-          git push --force origin main
-
-      - name: Debug Git Changes
-        run: |
-          git status
-          git diff    
+          git push --force origin main  
