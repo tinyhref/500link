@@ -26,11 +26,15 @@ jobs:
         run: |
           curl -s https://tinyhref.com/launch/ai/readme -o topics/ai.md
 
-      - name: Stash local changes before pull
+      - name: Pull latest changes safely
         run: |
-          git stash
-          git pull --rebase origin main
-          git stash pop
+          if ! git diff --quiet; then
+            git stash
+            git pull --rebase origin main
+            git stash pop || true
+          else
+            git pull --rebase origin main
+          fi
 
       - name: Commit & Push Changes
         run: |
