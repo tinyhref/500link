@@ -26,8 +26,11 @@ jobs:
         run: |
           curl -s https://tinyhref.com/launch/ai/readme -o topics/ai.md
 
-      - name: Pull latest changes before committing
-        run: git pull --rebase origin main
+      - name: Stash local changes before pull
+        run: |
+          git stash
+          git pull --rebase origin main
+          git stash pop
 
       - name: Commit & Push Changes
         run: |
