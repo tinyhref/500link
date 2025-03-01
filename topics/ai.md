@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
 <div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://500link.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
 <div><img width="16" src="https://i.imgur.com/YTMBMXC.png" alt="Trae"/> <a target="_blank" href="https://500link.com/trae">Trae</a> - Ship Faster with Trae.</div>
 <div><img width="16" src="https://i.imgur.com/tal6wNl.png" alt="PearAI"/> <a target="_blank" href="https://500link.com/pearai">PearAI</a> - Open source, extendable AI code editor.</div>
