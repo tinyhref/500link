@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
 <div><img width="16" src="https://i.imgur.com/ccSc5TM.png" alt="ShipFast"/> <a target="_blank" href="https://500link.com/shipfast">ShipFast</a> - Launch Your Startup in Days, Not Weeks.</div>
 <div><img width="16" src="https://i.imgur.com/Zf5p3Hk.png" alt="Fiverr"/> <a target="_blank" href="https://500link.com/fiverr">Fiverr</a> - Freelance Services Marketplace.</div>
 <div><img width="16" src="https://i.imgur.com/lLFqx34.png" alt="Store.link"/> <a target="_blank" href="https://500link.com/store.link">Store.link</a> - Effortless Online Store using Google Sheets.</div>
