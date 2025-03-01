@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
 <div><img width="16" src="https://i.imgur.com/ccSc5TM.png" alt="ShipFast"/> <a target="_blank" href="https://500link.com/shipfast">ShipFast</a> - Launch Your Startup in Days, Not Weeks.</div>
 <div><img width="16" src="https://i.imgur.com/TZ7x9Ag.jpeg" alt="Đen Vâu Official"/> <a target="_blank" href="https://500link.com/denvau">Đen Vâu Official</a> - A Vietnamese boy who plays Rap.</div>
 <div><img width="16" src="https://i.imgur.com/Ct2G0eR.jpeg" alt="IndieBoosting"/> <a target="_blank" href="https://500link.com/indieboosting">IndieBoosting</a> - Indie makers unite: feature, support, succeed.</div>
