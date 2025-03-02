@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/YU7Z25D.png" alt="Vite"/> <a target="_blank" href="https://500link.com/vite">Vite</a> - Next Generation Frontend Tooling.</div>
 <div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://500link.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
 <div><img width="16" src="https://i.imgur.com/YTMBMXC.png" alt="Trae"/> <a target="_blank" href="https://500link.com/trae">Trae</a> - Ship Faster with Trae.</div>
 <div><img width="16" src="https://i.imgur.com/flNuwaP.png" alt="CapCut"/> <a target="_blank" href="https://500link.com/capcut">CapCut</a> - All-in-one video editor &amp; graphic design tool driven by AI.</div>
