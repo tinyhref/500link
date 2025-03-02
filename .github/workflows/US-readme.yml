@@ -2,10 +2,8 @@ name: Update country US from URL
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
+    - cron: '0 17 * * *' # 0h (GMT+7)
+    - cron: '0 5 * * *'  # 12h (GMT+7)
 
 jobs:
   update-country-US:
