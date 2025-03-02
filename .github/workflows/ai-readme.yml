@@ -2,8 +2,9 @@ name: Update topic AI from URL
 
 on:
   schedule:
-    - cron: '0 17 * * *' # 0h (GMT+7)
-    - cron: '0 5 * * *'  # 12h (GMT+7)
+    #    - cron: '0 17 * * *' # 0h (GMT+7)
+    #    - cron: '0 5 * * *'  # 12h (GMT+7)
+    - cron: '0 17,20,23,2,5,8,11,14 * * *' # Runs every 3 hours in GMT+7
 
 jobs:
   update-topic-ai:
