@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/bPJcYuZ.jpeg" alt="Build in public VN"/> <a target="_blank" href="https://500link.com/buildinpublicvn">Build in public VN</a> - A place to share SaaS products and building processes with the public.</div>
 <div><img width="16" src="https://i.imgur.com/YU7Z25D.png" alt="Vite"/> <a target="_blank" href="https://500link.com/vite">Vite</a> - Next Generation Frontend Tooling.</div>
 <div><img width="16" src="https://i.imgur.com/u8m14nY.png" alt="Chatwith"/> <a target="_blank" href="https://500link.com/chatwith">Chatwith</a> - Custom ChatGPT chatbot with your website &amp; files.</div>
 <div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
