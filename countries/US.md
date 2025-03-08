@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/CJPDTwN.png" alt="Supabase"/> <a target="_blank" href="https://500link.com/supabase">Supabase</a> - The Open Source Firebase Alternative.</div>
 <div><img width="16" src="https://i.imgur.com/bSzj8jI.png" alt="Lucide"/> <a target="_blank" href="https://500link.com/lucide">Lucide</a> - Beautiful &amp; consistent icon toolkit made by the community.</div>
 <div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
 <div><img width="16" src="https://i.imgur.com/ccSc5TM.png" alt="ShipFast"/> <a target="_blank" href="https://500link.com/shipfast">ShipFast</a> - Launch Your Startup in Days, Not Weeks.</div>
