@@ -5,12 +5,15 @@
 <div align="center"><a target="_blank" href="https://500link.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
 <a target="_blank" href="https://x.com/intent/follow?screen_name=tinyhref"><img src="https://img.shields.io/twitter/follow/tinyhref" alt="submit"/></a></div>
 
-<h4 align="center"><a target="_blank" href="https://500link.com/launch/all">All</a> · <a target="_blank" href="https://500link.com/launch/today">Today</a> · <a target="_blank" href="https://500link.com/launch/vietnam">Form Vietnam</a></h4>
+<h4 align="center"><a target="_blank" href="https://500link.com/launch/all">All</a> · <a target="_blank" href="https://500link.com/launch/today">Today</a> · <a target="_blank" href="https://500link.com/launch/vietnam">From Vietnam</a></h4>
 
 <h4 align="center"><a target="_blank" href="https://500link.com/launch/game">Game</a> · <a target="_blank" href="https://500link.com/launch/tool">Tool</a> · <a target="_blank" href="https://500link.com/launch/ai">AI</a> · <a target="_blank" href="https://500link.com/launch/startup">StartUp</a> · <a target="_blank" href="https://500link.com/launch/application">Application</a> · <a target="_blank" href="https://500link.com/launch/channel">Channel</a> · <a target="_blank" href="https://500link.com/launch/community">Community</a> · <a target="_blank" href="https://500link.com/launch/ecommerce">Ecommerce</a> · <a target="_blank" href="https://500link.com/launch/open-source">Open Source</a> · <a target="_blank" href="https://500link.com/launch/web3">Web3</a> · <a target="_blank" href="https://500link.com/launch/no-code">No Code</a></h4>
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://500link.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
+<div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://500link.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
+<div><img width="16" src="https://i.imgur.com/CJPDTwN.png" alt="Supabase"/> <a target="_blank" href="https://500link.com/supabase">Supabase</a> - The Open Source Firebase Alternative.</div>
 <div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://500link.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
 <div><img width="16" src="https://i.imgur.com/WEwgl3f.png" alt="Roadmap.sh"/> <a target="_blank" href="https://500link.com/roadmap.sh">Roadmap.sh</a> - Developer Roadmaps.</div>
 <div><img width="16" src="https://i.imgur.com/ZMw21gh.png" alt="Lynx"/> <a target="_blank" href="https://500link.com/lynxjs">Lynx</a> - Empower the web community and invite more to build cross-platform apps.</div>
