@@ -7,6 +7,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://500link.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
+<div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://500link.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
 <div><img width="16" src="https://i.imgur.com/u8m14nY.png" alt="Chatwith"/> <a target="_blank" href="https://500link.com/chatwith">Chatwith</a> - Custom ChatGPT chatbot with your website &amp; files.</div>
 <div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
 <div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://500link.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
