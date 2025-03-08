@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://500link.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
 <div><img width="16" src="https://i.imgur.com/ZMw21gh.png" alt="Lynx"/> <a target="_blank" href="https://500link.com/lynxjs">Lynx</a> - Empower the web community and invite more to build cross-platform apps.</div>
 <div><img width="16" src="https://i.imgur.com/YU7Z25D.png" alt="Vite"/> <a target="_blank" href="https://500link.com/vite">Vite</a> - Next Generation Frontend Tooling.</div>
 <div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://500link.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
