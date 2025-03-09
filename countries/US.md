@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://500link.com/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
 <div><img width="16" src="https://i.imgur.com/CJPDTwN.png" alt="Supabase"/> <a target="_blank" href="https://500link.com/supabase">Supabase</a> - The Open Source Firebase Alternative.</div>
 <div><img width="16" src="https://i.imgur.com/bSzj8jI.png" alt="Lucide"/> <a target="_blank" href="https://500link.com/lucide">Lucide</a> - Beautiful &amp; consistent icon toolkit made by the community.</div>
 <div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://500link.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
