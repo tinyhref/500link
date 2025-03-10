@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://500link.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
 <div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://500link.com/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
 <div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://500link.com/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
 <div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://500link.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
