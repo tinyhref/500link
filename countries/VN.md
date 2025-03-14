@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://500link.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
 <div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://500link.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
 <div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://500link.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
 <div><img width="16" src="https://i.imgur.com/Pqj8dET.jpeg" alt="9tube"/> <a target="_blank" href="https://500link.com/9tube">9tube</a> - Discover a world of vibrant music and videos.</div>
