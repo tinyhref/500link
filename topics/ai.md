@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://500link.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
 <div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://500link.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
 <div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://500link.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
 <div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://500link.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
