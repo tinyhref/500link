@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/cUzM1O4.jpeg" alt="Motion"/> <a target="_blank" href="https://500link.com/motion">Motion</a> - A modern animation library for JavaScript and React.</div>
+<div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://500link.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
 <div><img width="16" src="https://i.imgur.com/hPz3X5e.png" alt="Fly.Pieter.com"/> <a target="_blank" href="https://500link.com/fly-pieter">Fly.Pieter.com</a> - The AI-Powered Flight Simulator Game.</div>
 <div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://500link.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
 <div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://500link.com/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
