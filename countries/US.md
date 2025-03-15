@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://500link.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
 <div><img width="16" src="https://i.imgur.com/cUzM1O4.jpeg" alt="Motion"/> <a target="_blank" href="https://500link.com/motion">Motion</a> - A modern animation library for JavaScript and React.</div>
 <div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://500link.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
 <div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://500link.com/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
