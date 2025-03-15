@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://500link.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
 <div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://500link.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
 <div><img width="16" src="https://i.imgur.com/cUzM1O4.jpeg" alt="Motion"/> <a target="_blank" href="https://500link.com/motion">Motion</a> - A modern animation library for JavaScript and React.</div>
 <div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://500link.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
