@@ -1,5 +1,5 @@
 <div align="center"><a target="_blank" href="https://tinyhref.com"><img src="https://i.imgur.com/cY13Vvb.png" height="128" alt="tinyhref"/></a></div>
-<h1 align="center"><a target="_blank" href="https://tinyhref.com">500link</a> - United States</h1>
+<h1 align="center"><a target="_blank" href="https://tinyhref.com">TinyHref</a> - United States</h1>
 <p align="center">Introducing new products, find inspiration and new ideas</p>
 
 <div align="center"><a target="_blank" href="https://tinyhref.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.81988-1757181439969/solid-logo.png" alt="SolidJS"/> <a target="_blank" href="https://tinyhref.com/solid">SolidJS</a> - Simple and performant reactivity for building user interfaces.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/react">ReactJS</a> - The library for web and native user interfaces.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
 <div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
