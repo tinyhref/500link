@@ -7,6 +7,10 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.15333-1757219466033/svelte-logo.jpg" alt="SvelteJS"/> <a target="_blank" href="https://tinyhref.com/svelte">SvelteJS</a> - Web development for the rest of us.</div>
+<div><img width="16" src="https://esm.sh/file-public-cdn@1.1.35749-1757218899579/angular-logo.png" alt="AngularJS"/> <a target="_blank" href="https://tinyhref.com/angular">AngularJS</a> - The modern web developer&#x27;s platform.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free@1.1.25292-1757217695940/inferno-logo.png" alt="Inferno"/> <a target="_blank" href="https://tinyhref.com/inferno">Inferno</a> - An extremely fast React-like javascript library for building modern user interfaces.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.76521-1757215439376/preact-logo.png" alt="PreactJS"/> <a target="_blank" href="https://tinyhref.com/preact">PreactJS</a> - Fast 3kB alternative to React with the same modern API.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.81988-1757181439969/solid-logo.png" alt="SolidJS"/> <a target="_blank" href="https://tinyhref.com/solid">SolidJS</a> - Simple and performant reactivity for building user interfaces.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/react">ReactJS</a> - The library for web and native user interfaces.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
