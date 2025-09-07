@@ -7,6 +7,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn-hn@1.1.28994-1757252102111/rolldown-logo.svg" alt="Rolldown"/> <a target="_blank" href="https://tinyhref.com/rolldown">Rolldown</a> - Fast Rust-based bundler for JavaScript with Rollup-compatible API.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.79278-1757244900260/tailwind-logo.png" alt="Tailwind CSS"/> <a target="_blank" href="https://tinyhref.com/tailwind">Tailwind CSS</a> - Rapidly build modern websites without ever leaving your HTML.</div>
+<div><img width="16" src="https://esm.sh/public-cdn@1.1.95383-1757243933288/webpack-logo.png" alt="Webpack"/> <a target="_blank" href="https://tinyhref.com/webpack">Webpack</a> - A bundler for javascript and friends.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.15333-1757219466033/svelte-logo.jpg" alt="SvelteJS"/> <a target="_blank" href="https://tinyhref.com/svelte">SvelteJS</a> - Web development for the rest of us.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.35749-1757218899579/angular-logo.png" alt="AngularJS"/> <a target="_blank" href="https://tinyhref.com/angular">AngularJS</a> - The modern web developer&#x27;s platform.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free@1.1.25292-1757217695940/inferno-logo.png" alt="Inferno"/> <a target="_blank" href="https://tinyhref.com/inferno">Inferno</a> - An extremely fast React-like javascript library for building modern user interfaces.</div>
