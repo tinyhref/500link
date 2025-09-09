@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn@1.1.51396-1757432016494/deno-logo.svg" alt="Deno"/> <a target="_blank" href="https://tinyhref.com/deno">Deno</a> - The next-generation JavaScript runtime.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.29718-1757427837670/nodejs-logo.png" alt="NodeJS"/> <a target="_blank" href="https://tinyhref.com/nodejs">NodeJS</a> - Run JavaScript Everywhere.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.73573-1757423408553/hono-logo.svg" alt="Hono"/> <a target="_blank" href="https://tinyhref.com/hono">Hono</a> - Fast, lightweight, built on Web Standards.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.28799-1757422438131/nestjs-logo.svg" alt="NestJS"/> <a target="_blank" href="https://tinyhref.com/nestjs">NestJS</a> - A progressive Node.js framework.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.55921-1757309178575/typescript-logo.png" alt="TypeScript"/> <a target="_blank" href="https://tinyhref.com/typescript">TypeScript</a> - JavaScript with syntax for types.</div>
