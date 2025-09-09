@@ -7,10 +7,12 @@
 
 <h4 align="center"><a target="_blank" href="https://tinyhref.com/launch/all">All</a> · <a target="_blank" href="https://tinyhref.com/launch/today">Today</a> · <a target="_blank" href="https://tinyhref.com/launch/vietnam">From Vietnam</a></h4>
 
-<h4 align="center"></h4>
+<h4 align="center"><a target="_blank" href="https://tinyhref.com/launch/game">Game</a> · <a target="_blank" href="https://tinyhref.com/launch/tool">Tool</a> · <a target="_blank" href="https://tinyhref.com/launch/ai">AI</a> · <a target="_blank" href="https://tinyhref.com/launch/startup">StartUp</a> · <a target="_blank" href="https://tinyhref.com/launch/application">Application</a> · <a target="_blank" href="https://tinyhref.com/launch/channel">Channel</a> · <a target="_blank" href="https://tinyhref.com/launch/community">Community</a> · <a target="_blank" href="https://tinyhref.com/launch/ecommerce">Ecommerce</a> · <a target="_blank" href="https://tinyhref.com/launch/open-source">Open Source</a> · <a target="_blank" href="https://tinyhref.com/launch/web3">Web3</a> · <a target="_blank" href="https://tinyhref.com/launch/no-code">No Code</a></h4>
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.73573-1757423408553/hono-logo.svg" alt="Hono"/> <a target="_blank" href="https://tinyhref.com/hono">Hono</a> - Fast, lightweight, built on Web Standards.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.28799-1757422438131/nestjs-logo.svg" alt="NestJS"/> <a target="_blank" href="https://tinyhref.com/nestjs">NestJS</a> - A progressive Node.js framework.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.55921-1757309178575/typescript-logo.png" alt="TypeScript"/> <a target="_blank" href="https://tinyhref.com/typescript">TypeScript</a> - JavaScript with syntax for types.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.26243-1757308495914/javascript-logo.png" alt="JavaScript"/> <a target="_blank" href="https://tinyhref.com/javascript">JavaScript</a> - The scripting language of the web.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vn@1.1.77156-1757379423551/express-logo.png" alt="Express"/> <a target="_blank" href="https://tinyhref.com/express">Express</a> - Fast, unopinionated, minimalist web framework for Node.js.</div>
