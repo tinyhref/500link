@@ -37,7 +37,7 @@
 <div><img width="16" src="https://i.imgur.com/tal6wNl.png" alt="PearAI"/> <a target="_blank" href="https://tinyhref.com/pearai">PearAI</a> - Open source, extendable AI code editor.</div>
 <div><img width="16" src="https://i.imgur.com/umJB5tM.png" alt="Maxun"/> <a target="_blank" href="https://tinyhref.com/maxun">Maxun</a> - Open-Source No-Code Web Data Extraction Platform.</div>
 <div><img width="16" src="https://i.imgur.com/G1IX8Cd.png" alt="daily.dev"/> <a target="_blank" href="https://tinyhref.com/daily-dev">daily.dev</a> - Where developers suffer together.</div>
-<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="Next.js"/> <a target="_blank" href="https://tinyhref.com/nextjs">Next.js</a> - by Vercel is the full-stack React framework for the web.</div>
+<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="NextJS"/> <a target="_blank" href="https://tinyhref.com/nextjs">NextJS</a> - by Vercel is the full-stack React framework for the web.</div>
 <div><img width="16" src="https://i.imgur.com/LRHxdYd.jpeg" alt="Arc Browser"/> <a target="_blank" href="https://tinyhref.com/arc-browser">Arc Browser</a> - Bridging experience and technology.</div>
 <div><img width="16" src="https://i.imgur.com/IBPDttk.png" alt="Threads"/> <a target="_blank" href="https://tinyhref.com/threads">Threads</a> - Share ideas &amp; trends with text.</div>
 <div><img width="16" src="https://i.imgur.com/25mnkzJ.png" alt="Figma"/> <a target="_blank" href="https://tinyhref.com/figma">Figma</a> - The Collaborative Interface Design Tool.</div>
