@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.15749-1757750597966/astro-logo.png" alt="Astro"/> <a target="_blank" href="https://tinyhref.com/astro">Astro</a> - The web framework for content-driven websites.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.73376-1757749797421/remix-logo.png" alt="Remix"/> <a target="_blank" href="https://tinyhref.com/remix">Remix</a> - Build Better Websites.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free@1.1.12515-1757689309139/ripple-logo.jpg" alt="RippleJS"/> <a target="_blank" href="https://tinyhref.com/ripple">RippleJS</a> - the elegant TypeScript UI framework.</div>
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.51396-1757432016494/deno-logo.svg" alt="Deno"/> <a target="_blank" href="https://tinyhref.com/deno">Deno</a> - The next-generation JavaScript runtime.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.29718-1757427837670/nodejs-logo.png" alt="NodeJS"/> <a target="_blank" href="https://tinyhref.com/nodejs">NodeJS</a> - Run JavaScript Everywhere.</div>
@@ -75,7 +77,7 @@
 <div><img width="16" src="https://i.imgur.com/BU156hf.gif" alt="Diaflow.io"/> <a target="_blank" href="https://tinyhref.com/diaflow">Diaflow.io</a> - Be the hero of your company with powerful automation &amp; apps.</div>
 <div><img width="16" src="https://i.imgur.com/Imzg8Lv.png" alt="Lotus Chat"/> <a target="_blank" href="https://tinyhref.com/lotuschat">Lotus Chat</a> - Chat and messaging application exclusively for Vietnamese people.</div>
 <div><img width="16" src="https://i.imgur.com/G1IX8Cd.png" alt="daily.dev"/> <a target="_blank" href="https://tinyhref.com/daily-dev">daily.dev</a> - Where developers suffer together.</div>
-<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="Next.js"/> <a target="_blank" href="https://tinyhref.com/nextjs">Next.js</a> - by Vercel is the full-stack React framework for the web.</div>
+<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="NextJS"/> <a target="_blank" href="https://tinyhref.com/nextjs">NextJS</a> - by Vercel is the full-stack React framework for the web.</div>
 <div><img width="16" src="https://i.imgur.com/LRHxdYd.jpeg" alt="Arc Browser"/> <a target="_blank" href="https://tinyhref.com/arc-browser">Arc Browser</a> - Bridging experience and technology.</div>
 <div><img width="16" src="https://i.imgur.com/IBPDttk.png" alt="Threads"/> <a target="_blank" href="https://tinyhref.com/threads">Threads</a> - Share ideas &amp; trends with text.</div>
 <div><img width="16" src="https://i.imgur.com/flNuwaP.png" alt="CapCut"/> <a target="_blank" href="https://tinyhref.com/capcut">CapCut</a> - All-in-one video editor &amp; graphic design tool driven by AI.</div>
