@@ -11,6 +11,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47194-1757755464997/zustand-logo.png" alt="Zustand"/> <a target="_blank" href="https://tinyhref.com/zustand">Zustand</a> - Bear necessities for state management.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.72133-1757754682843/redux-logo.png" alt="Redux"/> <a target="_blank" href="https://tinyhref.com/redux">Redux</a> - A JS library for predictable and maintainable global state management.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free@1.1.26653-1757752209808/tanstack-logo.png" alt="TanStack"/> <a target="_blank" href="https://tinyhref.com/tanstack">TanStack</a> - High Quality Open Source Software for Web Developers.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.15749-1757750597966/astro-logo.png" alt="Astro"/> <a target="_blank" href="https://tinyhref.com/astro">Astro</a> - The web framework for content-driven websites.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.73376-1757749797421/remix-logo.png" alt="Remix"/> <a target="_blank" href="https://tinyhref.com/remix">Remix</a> - Build Better Websites.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free@1.1.12515-1757689309139/ripple-logo.jpg" alt="RippleJS"/> <a target="_blank" href="https://tinyhref.com/ripple">RippleJS</a> - the elegant TypeScript UI framework.</div>
