@@ -1,90 +1,321 @@
-<div align="center"><a target="_blank" href="https://tinyhref.com"><img src="https://i.imgur.com/cY13Vvb.png" height="128" alt="tinyhref"/></a></div>
-<h1 align="center"><a target="_blank" href="https://tinyhref.com">500link</a> - TinyHref</h1>
-<p align="center">Introducing new products, find inspiration and new ideas</p>
+<!DOCTYPE html>
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALquDFETXRn0Hr05fUP7EJT77xYnPmRbpMy4vk8KYiHnkNpednjOANJcaXDXcKQJN0nXKZJL7TciJD8AoHXK158CAwEAAQ==_IXmG5MpGkh6QLKxZmOS1OKV8sAY8z9egKrIPCVvjNQYgP1PDAy/sdMpHr9DPjtBD0MSyI6bfkfzhjwEM5/zJqQ==" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <title>tinyhref.com</title>
+    <style media="screen">
+.asset_star0 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star0.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<div align="center"><a target="_blank" href="https://tinyhref.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
-<a target="_blank" href="https://x.com/intent/follow?screen_name=tinyhref"><img src="https://img.shields.io/twitter/follow/tinyhref" alt="submit"/></a></div>
+.asset_star1 {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/star1.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<h4 align="center"><a target="_blank" href="https://tinyhref.com/launch/all">All</a> · <a target="_blank" href="https://tinyhref.com/launch/today">Today</a> · <a target="_blank" href="https://tinyhref.com/launch/vietnam">From Vietnam</a></h4>
+.asset_starH {
+	background: url('//d38psrni17bvxu.cloudfront.net/themes/assets/starH.gif') no-repeat center;
+	width: 13px;
+	height: 12px;
+	display: inline-block;
+}
 
-<h4 align="center"><a target="_blank" href="https://tinyhref.com/launch/game">Game</a> · <a target="_blank" href="https://tinyhref.com/launch/tool">Tool</a> · <a target="_blank" href="https://tinyhref.com/launch/ai">AI</a> · <a target="_blank" href="https://tinyhref.com/launch/startup">StartUp</a> · <a target="_blank" href="https://tinyhref.com/launch/application">Application</a> · <a target="_blank" href="https://tinyhref.com/launch/channel">Channel</a> · <a target="_blank" href="https://tinyhref.com/launch/community">Community</a> · <a target="_blank" href="https://tinyhref.com/launch/ecommerce">Ecommerce</a> · <a target="_blank" href="https://tinyhref.com/launch/open-source">Open Source</a> · <a target="_blank" href="https://tinyhref.com/launch/web3">Web3</a> · <a target="_blank" href="https://tinyhref.com/launch/no-code">No Code</a></h4>
+.sitelink {
+	padding-right: 16px;
+}
 
-<img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
+.sellerRatings a:link,
+.sellerRatings a:visited,
+.sellerRatings a:hover,
+.sellerRatings a:active {
+	text-decoration: none;
+	cursor: text;
+}
 
-<div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47194-1757755464997/zustand-logo.png" alt="Zustand"/> <a target="_blank" href="https://tinyhref.com/zustand">Zustand</a> - Bear necessities for state management.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.72133-1757754682843/redux-logo.png" alt="Redux"/> <a target="_blank" href="https://tinyhref.com/redux">Redux</a> - A JS library for predictable and maintainable global state management.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free@1.1.26653-1757752209808/tanstack-logo.png" alt="TanStack"/> <a target="_blank" href="https://tinyhref.com/tanstack">TanStack</a> - High Quality Open Source Software for Web Developers.</div>
-<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.15749-1757750597966/astro-logo.png" alt="Astro"/> <a target="_blank" href="https://tinyhref.com/astro">Astro</a> - The web framework for content-driven websites.</div>
-<div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.73376-1757749797421/remix-logo.png" alt="Remix"/> <a target="_blank" href="https://tinyhref.com/remix">Remix</a> - Build Better Websites.</div>
-<div><img width="16" src="https://esm.sh/file-cdn-free@1.1.12515-1757689309139/ripple-logo.jpg" alt="RippleJS"/> <a target="_blank" href="https://tinyhref.com/ripple">RippleJS</a> - the elegant TypeScript UI framework.</div>
-<div><img width="16" src="https://esm.sh/public-cdn@1.1.51396-1757432016494/deno-logo.svg" alt="Deno"/> <a target="_blank" href="https://tinyhref.com/deno">Deno</a> - The next-generation JavaScript runtime.</div>
-<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.29718-1757427837670/nodejs-logo.png" alt="NodeJS"/> <a target="_blank" href="https://tinyhref.com/nodejs">NodeJS</a> - Run JavaScript Everywhere.</div>
-<div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.73573-1757423408553/hono-logo.svg" alt="Hono"/> <a target="_blank" href="https://tinyhref.com/hono">Hono</a> - Fast, lightweight, built on Web Standards.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.28799-1757422438131/nestjs-logo.svg" alt="NestJS"/> <a target="_blank" href="https://tinyhref.com/nestjs">NestJS</a> - A progressive Node.js framework.</div>
-<div><img width="16" src="https://esm.sh/file-public-cdn@1.1.55921-1757309178575/typescript-logo.png" alt="TypeScript"/> <a target="_blank" href="https://tinyhref.com/typescript">TypeScript</a> - JavaScript with syntax for types.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.26243-1757308495914/javascript-logo.png" alt="JavaScript"/> <a target="_blank" href="https://tinyhref.com/javascript">JavaScript</a> - The scripting language of the web.</div>
-<div><img width="16" src="https://esm.sh/link-public-cdn-vn@1.1.77156-1757379423551/express-logo.png" alt="Express"/> <a target="_blank" href="https://tinyhref.com/express">Express</a> - Fast, unopinionated, minimalist web framework for Node.js.</div>
-<div><img width="16" src="https://esm.sh/public-cdn@1.1.91275-1757262375218/panda-css-logo.png" alt="Panda CSS"/> <a target="_blank" href="https://tinyhref.com/panda-css">Panda CSS</a> - Build modern websites using build time and type-safe CSS-in-JS.</div>
-<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.76627-1757261433231/twind-logo-animated.svg" alt="Twind"/> <a target="_blank" href="https://tinyhref.com/twind">Twind</a> - The smallest, fastest, most feature complete tailwind-in-js solution in existence.</div>
-<div><img width="16" src="https://esm.sh/cdn-free-dn@1.1.92962-1757260509210/unocss-logo.svg" alt="UnoCSS"/> <a target="_blank" href="https://tinyhref.com/unocss">UnoCSS</a> - The instant on-demand atomic CSS engine.</div>
-<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.77929-1757259051732/esbuild-logo.svg" alt="esbuild"/> <a target="_blank" href="https://tinyhref.com/esbuild">esbuild</a> - An extremely fast bundler for the web.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.39372-1757258408247/rspack-logo.png" alt="Rspack"/> <a target="_blank" href="https://tinyhref.com/rspack">Rspack</a> - The fast Rust-based web bundler with webpack-compatible API.</div>
-<div><img width="16" src="https://esm.sh/link-public-cdn-hcm@1.1.91753-1757256927226/bun-logo.png" alt="Bun"/> <a target="_blank" href="https://tinyhref.com/bun">Bun</a> - A fast all-in-one JavaScript runtime.</div>
-<div><img width="16" src="https://esm.sh/link-public-cdn-hn@1.1.28994-1757252102111/rolldown-logo.svg" alt="Rolldown"/> <a target="_blank" href="https://tinyhref.com/rolldown">Rolldown</a> - Fast Rust-based bundler for JavaScript with Rollup-compatible API.</div>
-<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.79278-1757244900260/tailwind-logo.png" alt="Tailwind CSS"/> <a target="_blank" href="https://tinyhref.com/tailwind">Tailwind CSS</a> - Rapidly build modern websites without ever leaving your HTML.</div>
-<div><img width="16" src="https://esm.sh/public-cdn@1.1.95383-1757243933288/webpack-logo.png" alt="Webpack"/> <a target="_blank" href="https://tinyhref.com/webpack">Webpack</a> - A bundler for javascript and friends.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-hn@1.1.15333-1757219466033/svelte-logo.jpg" alt="SvelteJS"/> <a target="_blank" href="https://tinyhref.com/svelte">SvelteJS</a> - Web development for the rest of us.</div>
-<div><img width="16" src="https://esm.sh/file-public-cdn@1.1.35749-1757218899579/angular-logo.png" alt="AngularJS"/> <a target="_blank" href="https://tinyhref.com/angular">AngularJS</a> - The modern web developer&#x27;s platform.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free@1.1.25292-1757217695940/inferno-logo.png" alt="Inferno"/> <a target="_blank" href="https://tinyhref.com/inferno">Inferno</a> - An extremely fast React-like javascript library for building modern user interfaces.</div>
-<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.76521-1757215439376/preact-logo.png" alt="PreactJS"/> <a target="_blank" href="https://tinyhref.com/preact">PreactJS</a> - Fast 3kB alternative to React with the same modern API.</div>
-<div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.81988-1757181439969/solid-logo.png" alt="SolidJS"/> <a target="_blank" href="https://tinyhref.com/solid">SolidJS</a> - Simple and performant reactivity for building user interfaces.</div>
-<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.83168-1757178405765/vue-logo.png" alt="VueJS"/> <a target="_blank" href="https://tinyhref.com/vuejs">VueJS</a> - The Progressive JavaScript Framework.</div>
-<div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/react">ReactJS</a> - The library for web and native user interfaces.</div>
-<div><img width="16" src="https://i.imgur.com/0LnuA9r.png" alt="Rust"/> <a target="_blank" href="https://tinyhref.com/rust">Rust</a> - The Safe and High-Performance Programming Language.</div>
-<div><img width="16" src="https://i.imgur.com/8T7X8al.png" alt="J2TEAM Community"/> <a target="_blank" href="https://tinyhref.com/j2team">J2TEAM Community</a> - A Diverse and Creative Online Space.</div>
-<div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
-<div><img width="16" src="https://i.imgur.com/qOjDNCk.jpeg" alt="TanStack Form"/> <a target="_blank" href="https://tinyhref.com/tanstack-form">TanStack Form</a> - Headless, performant, and type-safe form state management.</div>
-<div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
-<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
-<div><img width="16" src="https://i.imgur.com/cUzM1O4.jpeg" alt="Motion"/> <a target="_blank" href="https://tinyhref.com/motion">Motion</a> - A modern animation library for JavaScript and React.</div>
-<div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://tinyhref.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
-<div><img width="16" src="https://i.imgur.com/hPz3X5e.png" alt="Fly.Pieter.com"/> <a target="_blank" href="https://tinyhref.com/fly-pieter">Fly.Pieter.com</a> - The AI-Powered Flight Simulator Game.</div>
-<div><img width="16" src="https://i.imgur.com/4TyovfU.png" alt="Appwrite"/> <a target="_blank" href="https://tinyhref.com/appwrite">Appwrite</a> - Build like a team of hundreds.</div>
-<div><img width="16" src="https://i.imgur.com/zuIe6gd.png" alt="shadcn/ui"/> <a target="_blank" href="https://tinyhref.com/shadcn-ui">shadcn/ui</a> - Build your component library.</div>
-<div><img width="16" src="https://i.imgur.com/Bq0Oya2.png" alt="Firebase"/> <a target="_blank" href="https://tinyhref.com/firebase">Firebase</a> - Google&#x27;s Mobile and Web App Development Platform.</div>
-<div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://tinyhref.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
-<div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://tinyhref.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
-<div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://tinyhref.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
-<div><img width="16" src="https://i.imgur.com/CJPDTwN.png" alt="Supabase"/> <a target="_blank" href="https://tinyhref.com/supabase">Supabase</a> - The Open Source Firebase Alternative.</div>
-<div><img width="16" src="https://i.imgur.com/8HZN9bD.png" alt="Rspeedy"/> <a target="_blank" href="https://tinyhref.com/rspeedy">Rspeedy</a> - The Build Tool for Lynx.</div>
-<div><img width="16" src="https://i.imgur.com/WEwgl3f.png" alt="Roadmap.sh"/> <a target="_blank" href="https://tinyhref.com/roadmap.sh">Roadmap.sh</a> - Developer Roadmaps.</div>
-<div><img width="16" src="https://i.imgur.com/ZMw21gh.png" alt="Lynx"/> <a target="_blank" href="https://tinyhref.com/lynxjs">Lynx</a> - Empower the web community and invite more to build cross-platform apps.</div>
-<div><img width="16" src="https://i.imgur.com/Pqj8dET.jpeg" alt="9tube"/> <a target="_blank" href="https://tinyhref.com/9tube">9tube</a> - Discover a world of vibrant music and videos.</div>
-<div><img width="16" src="https://i.imgur.com/bSzj8jI.png" alt="Lucide"/> <a target="_blank" href="https://tinyhref.com/lucide">Lucide</a> - Beautiful &amp; consistent icon toolkit made by the community.</div>
-<div><img width="16" src="https://i.imgur.com/bPJcYuZ.jpeg" alt="Build in public VN"/> <a target="_blank" href="https://tinyhref.com/buildinpublicvn">Build in public VN</a> - A place to share SaaS products and building processes with the public.</div>
-<div><img width="16" src="https://i.imgur.com/YU7Z25D.png" alt="Vite"/> <a target="_blank" href="https://tinyhref.com/vite">Vite</a> - Next Generation Frontend Tooling.</div>
-<div><img width="16" src="https://i.imgur.com/u8m14nY.png" alt="Chatwith"/> <a target="_blank" href="https://tinyhref.com/chatwith">Chatwith</a> - Custom ChatGPT chatbot with your website &amp; files.</div>
-<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://tinyhref.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
-<div><img width="16" src="https://i.imgur.com/ccSc5TM.png" alt="ShipFast"/> <a target="_blank" href="https://tinyhref.com/shipfast">ShipFast</a> - Launch Your Startup in Days, Not Weeks.</div>
-<div><img width="16" src="https://i.imgur.com/TZ7x9Ag.jpeg" alt="Đen Vâu Official"/> <a target="_blank" href="https://tinyhref.com/denvau">Đen Vâu Official</a> - A Vietnamese boy who plays Rap.</div>
-<div><img width="16" src="https://i.imgur.com/Ct2G0eR.jpeg" alt="IndieBoosting"/> <a target="_blank" href="https://tinyhref.com/indieboosting">IndieBoosting</a> - Indie makers unite: feature, support, succeed.</div>
-<div><img width="16" src="https://i.imgur.com/Zf5p3Hk.png" alt="Fiverr"/> <a target="_blank" href="https://tinyhref.com/fiverr">Fiverr</a> - Freelance Services Marketplace.</div>
-<div><img width="16" src="https://i.imgur.com/lLFqx34.png" alt="Store.link"/> <a target="_blank" href="https://tinyhref.com/store.link">Store.link</a> - Effortless Online Store using Google Sheets.</div>
-<div><img width="16" src="https://i.imgur.com/SjjBGUT.png" alt="Satori"/> <a target="_blank" href="https://tinyhref.com/satori">Satori</a> - Enlightened library to convert HTML and CSS to SVG.</div>
-<div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://tinyhref.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
-<div><img width="16" src="https://i.imgur.com/YTMBMXC.png" alt="Trae"/> <a target="_blank" href="https://tinyhref.com/trae">Trae</a> - Ship Faster with Trae.</div>
-<div><img width="16" src="https://i.imgur.com/tal6wNl.png" alt="PearAI"/> <a target="_blank" href="https://tinyhref.com/pearai">PearAI</a> - Open source, extendable AI code editor.</div>
-<div><img width="16" src="https://i.imgur.com/umJB5tM.png" alt="Maxun"/> <a target="_blank" href="https://tinyhref.com/maxun">Maxun</a> - Open-Source No-Code Web Data Extraction Platform.</div>
-<div><img width="16" src="https://i.imgur.com/GtwsHvB.jpeg" alt="Binsoo"/> <a target="_blank" href="https://tinyhref.com/binsoo">Binsoo</a> - Photo filters &amp; editor.</div>
-<div><img width="16" src="https://i.imgur.com/gpoybl3.jpeg" alt="YEScale"/> <a target="_blank" href="https://tinyhref.com/yescale">YEScale</a> - Scale Your AI. Instantly.</div>
-<div><img width="16" src="https://i.imgur.com/BU156hf.gif" alt="Diaflow.io"/> <a target="_blank" href="https://tinyhref.com/diaflow">Diaflow.io</a> - Be the hero of your company with powerful automation &amp; apps.</div>
-<div><img width="16" src="https://i.imgur.com/Imzg8Lv.png" alt="Lotus Chat"/> <a target="_blank" href="https://tinyhref.com/lotuschat">Lotus Chat</a> - Chat and messaging application exclusively for Vietnamese people.</div>
-<div><img width="16" src="https://i.imgur.com/G1IX8Cd.png" alt="daily.dev"/> <a target="_blank" href="https://tinyhref.com/daily-dev">daily.dev</a> - Where developers suffer together.</div>
-<div><img width="16" src="https://i.imgur.com/cAeBStc.png" alt="NextJS"/> <a target="_blank" href="https://tinyhref.com/nextjs">NextJS</a> - by Vercel is the full-stack React framework for the web.</div>
-<div><img width="16" src="https://i.imgur.com/LRHxdYd.jpeg" alt="Arc Browser"/> <a target="_blank" href="https://tinyhref.com/arc-browser">Arc Browser</a> - Bridging experience and technology.</div>
-<div><img width="16" src="https://i.imgur.com/IBPDttk.png" alt="Threads"/> <a target="_blank" href="https://tinyhref.com/threads">Threads</a> - Share ideas &amp; trends with text.</div>
-<div><img width="16" src="https://i.imgur.com/flNuwaP.png" alt="CapCut"/> <a target="_blank" href="https://tinyhref.com/capcut">CapCut</a> - All-in-one video editor &amp; graphic design tool driven by AI.</div>
-<div><img width="16" src="https://i.imgur.com/25mnkzJ.png" alt="Figma"/> <a target="_blank" href="https://tinyhref.com/figma">Figma</a> - The Collaborative Interface Design Tool.</div>
-<div><img width="16" src="https://i.imgur.com/DCXLu8x.jpeg" alt="Canva"/> <a target="_blank" href="https://tinyhref.com/canva">Canva</a> - Visual Suite for Everyone.</div>
-<div><img width="16" src="https://i.imgur.com/u8dRWfg.png" alt="Notion"/> <a target="_blank" href="https://tinyhref.com/notion">Notion</a> - The all-in-one workspace for your notes, tasks, wikis, and databases.</div>
-<div><img width="16" src="https://i.imgur.com/vKddPK2.png" alt="ChatGPT"/> <a target="_blank" href="https://tinyhref.com/chatgpt">ChatGPT</a> - Helps you get answers, find inspiration and be more productive.</div>
+.sellerRatings {
+	margin:0 0 3px 20px;
+}
+
+.sitelinkHolder {
+	margin:-15px 0 15px 35px;
+}
+
+#ajaxloaderHolder {
+	display: block;
+	width: 24px;
+	height: 24px;
+	background: #fff;
+	padding: 8px 0 0 8px;
+	margin:10px auto;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}</style>    <style media="screen">
+* {
+    margin:0;padding:0
+}
+
+body {
+    background:#101c36;
+    font-family: sans-serif;
+    text-align: center;
+    font-size:1rem;
+}
+
+.header {
+    padding:1rem 1rem 0;
+    overflow:hidden;
+}
+
+h1 {
+    color:#848484;
+    font-size:1.5rem;
+}
+
+.header-text-color:visited,
+.header-text-color:link,
+.header-text-color {
+    color:#848484;
+}
+
+.comp-is-parked {
+  margin: 4px 0 2px;
+}
+
+.comp-sponsored {
+  text-align: left;
+  margin: 0 0 -1.8rem 4px;
+}
+
+.wrapper1 {
+    margin:1rem;
+}
+
+.wrapper2 {
+    background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/bottom.png') no-repeat center bottom;
+    padding-bottom:140px;
+}
+
+.wrapper3 {
+    background:#fff;
+    max-width:300px;
+    margin:0 auto 1rem;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+.onDesktop {
+    display:none;
+}
+
+.tcHolder {
+    padding-top: 2rem;
+}
+
+.adsHolder {
+    margin: 1rem 0;
+    padding-top: 2rem;
+    overflow:hidden;
+}
+
+.footer {
+    color:#626574;
+    padding:2rem 1rem;
+    font-size:.8rem;
+    margin:0 auto;
+    max-width:440px;
+}
+
+.footer a:link,
+.footer a:visited {
+    color:#626574;
+}
+
+.sale_link_bold a,
+.sale_link,
+.sale_link a {
+    color:#626574 !important;
+}
+
+.searchHolder {
+    padding:1px 0 1px 1px;
+    margin:1rem auto;
+    width: 95%;
+    max-width: 500px;
+}
+
+@media screen and (min-width:600px) {
+
+    .comp-is-parked,
+    .comp-sponsored {
+      color: #848484;
+    }
+
+    .comp-sponsored {
+      margin-left: 0;
+    }
+
+    .wrapper1 {
+        max-width:1500px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+    .wrapper2 {
+        background:url('//d38psrni17bvxu.cloudfront.net/themes/cleanPeppermintBlack_657d9013/img/arrows.png') no-repeat center top;
+        padding-bottom:0;
+        min-height:600px;
+    }
+
+    .wrapper3 {
+        max-width:530px;
+        background:none;
+    }
+}
+</style>    <style media="screen">
+.fallback-term-holder {
+    display: inline-grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.fallback-term-link {
+    grid-column: 1 / span 1; align-self: center;
+    padding: 50px 13px 50px 13px; border-radius: 25px;
+    border: 5px solid #ffffff; margin-bottom: 20px;
+    background-color: rgb(17, 38, 77);
+    text-decoration-line: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: left;
+}
+
+.fallback-arrow {
+    float: right;
+    width: 24px;
+    height: 24px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyBmaWxsPScjRDdEN0Q3JyBzdHlsZT0iZmxvYXQ6IHJpZ2h0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTUuODggNC4xMkwxMy43NiAxMmwtNy44OCA3Ljg4TDggMjJsMTAtMTBMOCAyeiIvPjwvc3ZnPg==');
+}</style>
+    
+    </head>
+
+<body id="afd">
+
+<div class="wrapper1">
+        <div class="wrapper2">
+        <div class="wrapper3">
+            <br/>
+        <script async src="https://euob.youseasky.com/sxp/i/224f85302aa2b6ec30aac9a85da2cbf9.js" data-ch="AdsDeli - domain - landingpage" data-uvid="658ab97f9068fa188bb30547eeb6954194c08015" class="ct_clicktrue_80705" data-jsonp="onCheqResponse"></script>
+    <noscript>
+        <iframe src="https://obseu.youseasky.com/ns/224f85302aa2b6ec30aac9a85da2cbf9.html?ch=AdsDeli%20-%20domain%20-%20landingpage"
+                width="0" height="0" style="display:none"></iframe>
+    </noscript>
+<br/>
+<div class="header" id="domainname">
+        <h1>tinyhref.com</h1>
+    </div>
+                        <div class="tcHolder">
+                <div id="tc"></div>
+            </div>
+        </div>
+    </div>
+            <div class="footer">
+            2025 Copyright | All Rights Reserved.
+<br/><br/>
+<a href="javascript:void(0);" onClick="window.open('/privacy.html', 'privacy-policy', 'width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no').focus()" class="privacy-policy">
+    Privacy Policy
+</a>
+<br/><br/>
+<br/><br/>
+    </div>
+</div>
+
+<script type="text/javascript" language="JavaScript">
+    var tcblock = {
+        // Required and steady
+        'container': 'tc',
+        'type': 'relatedsearch',
+        'colorBackground': 'transparent',
+        
+        'number': 3,
+        
+        // Font-Sizes and Line-Heights
+        'fontSizeAttribution': 14,
+        'fontSizeTitle': 24,
+        'lineHeightTitle': 34,
+        // Colors
+        'colorAttribution': '#aaa',
+        'colorTitleLink': '#0277bd',
+        // Alphabetically
+        'horizontalAlignment': 'center',
+        'noTitleUnderline': false,
+        'rolloverLinkColor': '#01579b',
+        'verticalSpacing': 10
+    };
+    var searchboxBlock = {
+        'container': 'search',
+        'type': 'searchbox',
+        'fontSizeSearchInput': 12,
+        'hideSearchInputBorder': false,
+        'hideSearchButtonBorder': true,
+        'fontSizeSearchButton': 13,
+        'colorBackground': 'transparent',
+        'colorSearchButton': '#0b3279',
+        'colorSearchButtonText': '#fff'
+    };
+    </script>
+<script type="text/javascript">let isAdult=false;         let containerNames=[];         let uniqueTrackingID='MTc1ODc1NTcxNy42NDE5OmI2MmU1NWJkYzk5NDQ4YWE2OTgzMjc3YjU4YWQyNjZiNTk4Zjk0NDk2ODczZWMxYjQ4MTZhODZkZjRhOTY2ZjU6NjhkNDdiODU5Y2I5Yg==';         let search='';         let themedata='eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.yg5KSQy0oS1WQMlX9bdCoNKczvarDU_tGkzvqQg4hu5_7Ul-_vJT4g.xkbUZnRJPvzH2tzs_U7h6g.ZLb5t-Jqsx5lrolPaUk-Q1041sMURKjDnKKdaJhwNC6G9ZsnNQaPUvVMZ8pNVZwuNZNHSAvXjkYqPhUhCyEA9qxHxvvkI0bgiWtHEczsHQJSYd2FMyKQdKgQA8vIBL4zgZjD46KYi5Y0wWjimdhQHmLgARSRswlKuEKZTR-_8vV9Z-5mP_NMMnvslSoOQz-gYXVKhvukrfvfn1xJ7mjfURIxZeCVH4yGxwD6Xze_c5Vhb3MzxzH2vDGvyuKP8tAhe8q10vaewJPuWP3vIhfHl6Hb1ofnEomDb5m98Tt-um65RNchiGyD-zscix-tQbzI1H741OipOFdDNMTXAHDro1N9_IozyRewSTZa-pqpYd8nYEG98FHhKviO8T5MYqFr-NDl9SK4g-tATZha9l998RzhqR5G2q9u3mBqpYeoo1w-zr3s8mtaX7MOPSEE_oWhw59OiMTaTqYipNMBKynpiluXKi3SN20n2pTc8WTHtQ_5pyNw_EOUSsWimfwrd6cRBiVM5vVla3UNUs2xiv_zg_Hry0ALoZXQBJYVBo-KnqhT6lzKIjf8gZJ5RrK0B9iCU8WnWA8bZtYmJWG7GHwLQdd497E0WRhrQG8XzX5KzS4.PRm0R8X6qSk65mRxR4PK9g';         let domain='tinyhref.com';         let scriptPath='';         let adtest='off';if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=MmM2MjRhNGZhZTVjMjBkOTI0Yzk4OTg2YjA4YTYzNTc2YmE3NDczMyw2OGQ0N2I4NWEyZjIz'; }let pageLoadedCallbackTriggered = false;let fallbackTriggered = false;let formerCalledArguments = false;let pageOptions = {'pubId': 'dp-teaminternet01','resultsPageBaseUrl': '//' + location.host + '/?ts=','fontFamily': 'arial','optimizeTerms': true,'maxTermLength': 40,'adtest': true,'clicktrackUrl': '//' + location.host + '/munin/a/tr/click?','attributionText': 'Ads','colorAttribution': '#b7b7b7','fontSizeAttribution': 16,'attributionBold': false,'rolloverLinkBold': false,'fontFamilyAttribution': 'arial','adLoadedCallback': function(containerName, adsLoaded, isExperimentVariant, callbackOptions) {let data = {containerName: containerName,adsLoaded: adsLoaded,isExperimentVariant: isExperimentVariant,callbackOptions: callbackOptions,terms: pageOptions.terms};if (!adsLoaded || (containerName in containerNames)) {ajaxQuery(scriptPath + "/munin/a/tr/adloaded"+ "?toggle=adloaded"+ "&uid=" + encodeURIComponent(uniqueTrackingID)+ "&domain=" + encodeURIComponent(domain)+ "&data=" + encodeURIComponent(JSON.stringify(data)));}},'pageLoadedCallback': function (requestAccepted, status) {document.body.style.visibility = 'visible';pageLoadedCallbackTriggered = true;if ((status.faillisted === true || status.faillisted == "true" || status.blocked === true || status.blocked == "true" ) && status.error_code != 25) {ajaxQuery(scriptPath + "/munin/a/tr/block?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=block&reason=other&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.errorcode && !status.error_code) {status.error_code = status.errorcode;}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/errorcode?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=errorcode&code=" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));if ([18, 19].indexOf(parseInt(status.error_code)) != -1 && fallbackTriggered == false) {fallbackTriggered = true;if (typeof loadFeed === "function") {window.location.href = '//' + location.host;}}if (status.error_code == 20) {window.location.replace("//dp.g.doubleclick.net/apps/domainpark/domainpark.cgi?client=" + encodeURIComponent((pageOptions.pubid.match(/^ca-/i) ? "" : "ca-") + pageOptions.pubid) + "&domain_name=" + encodeURIComponent(domain) + "&output=html&drid=" + encodeURIComponent(pageOptions.domainRegistrant));}}if (status.needsreview === true || status.needsreview == "true") {ajaxQuery(scriptPath + "/munin/a/tr/needsreview?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=needsreview&uid=" + encodeURIComponent(uniqueTrackingID));}if ((status.adult === true || status.adult == "true") && !isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/adult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=adult&uid=" + encodeURIComponent(uniqueTrackingID));} else if ((status.adult === false || status.adult == "false") && isAdult) {ajaxQuery(scriptPath + "/munin/a/tr/nonadult?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=nonadult&uid=" + encodeURIComponent(uniqueTrackingID));}if (requestAccepted) {if (status.feed) {ajaxQuery(scriptPath + "/munin/a/tr/feed?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=feed&feed=" + encodeURIComponent(status.feed) + "&uid=" + encodeURIComponent(uniqueTrackingID));}if (status.error_code) {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/error?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=error_" + encodeURIComponent(status.error_code) + "&uid=" + encodeURIComponent(uniqueTrackingID));} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/yes?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=yes&uid=" + encodeURIComponent(uniqueTrackingID));}} else {ajaxQuery(scriptPath + "/munin/a/tr/answercheck/reject?domain=" + encodeURIComponent(domain) + "&caf=1&toggle=answercheck&answer=rejected&uid=" + encodeURIComponent(uniqueTrackingID));}}};let x = function (obj1, obj2) {if (typeof obj1 != "object")obj1 = {};for (let key in obj2)obj1[key] = obj2[key];return obj1;};function getXMLhttp() {let xmlHttp = null;try {xmlHttp = new XMLHttpRequest();} catch (e) {try {xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");} catch (ex) {try {xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");} catch (exc) {}}}return xmlHttp;}function ajaxQuery(url) {if (adtest == 'on') return false;xmlHttp = getXMLhttp();if (!xmlHttp) return ajaxBackfill(url);xmlHttp.open("GET", url, false);return xmlHttp.send(null);}function ajaxBackfill(url) {if (adtest == 'on') return false;if (url.indexOf("&toggle=browserjs") > -1) return false;try {let img = document.createElement('img');img.style.visibility = 'hidden';img.style.width = '1px';img.style.height = '1px';img.src = url + "&_t=" + new Date().getTime();document.body.appendChild(img);} catch (e) {}}ajaxQuery(scriptPath + "/munin/a/tr/browserjs?domain=" + encodeURIComponent(domain) + "&toggle=browserjs&uid=" + encodeURIComponent(uniqueTrackingID));x(pageOptions, {resultsPageBaseUrl: '//tinyhref.com/?ts=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.yg5KSQy0oS1WQMlX9bdCoNKczvarDU_tGkzvqQg4hu5_7Ul-_vJT4g.xkbUZnRJPvzH2tzs_U7h6g.ZLb5t-Jqsx5lrolPaUk-Q1041sMURKjDnKKdaJhwNC6G9ZsnNQaPUvVMZ8pNVZwuNZNHSAvXjkYqPhUhCyEA9qxHxvvkI0bgiWtHEczsHQJSYd2FMyKQdKgQA8vIBL4zgZjD46KYi5Y0wWjimdhQHmLgARSRswlKuEKZTR-_8vV9Z-5mP_NMMnvslSoOQz-gYXVKhvukrfvfn1xJ7mjfURIxZeCVH4yGxwD6Xze_c5Vhb3MzxzH2vDGvyuKP8tAhe8q10vaewJPuWP3vIhfHl6Hb1ofnEomDb5m98Tt-um65RNchiGyD-zscix-tQbzI1H741OipOFdDNMTXAHDro1N9_IozyRewSTZa-pqpYd8nYEG98FHhKviO8T5MYqFr-NDl9SK4g-tATZha9l998RzhqR5G2q9u3mBqpYeoo1w-zr3s8mtaX7MOPSEE_oWhw59OiMTaTqYipNMBKynpiluXKi3SN20n2pTc8WTHtQ_5pyNw_EOUSsWimfwrd6cRBiVM5vVla3UNUs2xiv_zg_Hry0ALoZXQBJYVBo-KnqhT6lzKIjf8gZJ5RrK0B9iCU8WnWA8bZtYmJWG7GHwLQdd497E0WRhrQG8XzX5KzS4.PRm0R8X6qSk65mRxR4PK9g',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: 'bucket007,bucket102,bucket077', pubId: 'dp-teaminternet01',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://tinyhref.com/munin/a/tr/click' + '?click=caf' + '&domain=tinyhref.com&uid=MTc1ODc1NTcxNy42NDE5OmI2MmU1NWJkYzk5NDQ4YWE2OTgzMjc3YjU4YWQyNjZiNTk4Zjk0NDk2ODczZWMxYjQ4MTZhODZkZjRhOTY2ZjU6NjhkNDdiODU5Y2I5Yg%3D%3D&ts=eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0.yg5KSQy0oS1WQMlX9bdCoNKczvarDU_tGkzvqQg4hu5_7Ul-_vJT4g.xkbUZnRJPvzH2tzs_U7h6g.ZLb5t-Jqsx5lrolPaUk-Q1041sMURKjDnKKdaJhwNC6G9ZsnNQaPUvVMZ8pNVZwuNZNHSAvXjkYqPhUhCyEA9qxHxvvkI0bgiWtHEczsHQJSYd2FMyKQdKgQA8vIBL4zgZjD46KYi5Y0wWjimdhQHmLgARSRswlKuEKZTR-_8vV9Z-5mP_NMMnvslSoOQz-gYXVKhvukrfvfn1xJ7mjfURIxZeCVH4yGxwD6Xze_c5Vhb3MzxzH2vDGvyuKP8tAhe8q10vaewJPuWP3vIhfHl6Hb1ofnEomDb5m98Tt-um65RNchiGyD-zscix-tQbzI1H741OipOFdDNMTXAHDro1N9_IozyRewSTZa-pqpYd8nYEG98FHhKviO8T5MYqFr-NDl9SK4g-tATZha9l998RzhqR5G2q9u3mBqpYeoo1w-zr3s8mtaX7MOPSEE_oWhw59OiMTaTqYipNMBKynpiluXKi3SN20n2pTc8WTHtQ_5pyNw_EOUSsWimfwrd6cRBiVM5vVla3UNUs2xiv_zg_Hry0ALoZXQBJYVBo-KnqhT6lzKIjf8gZJ5RrK0B9iCU8WnWA8bZtYmJWG7GHwLQdd497E0WRhrQG8XzX5KzS4.PRm0R8X6qSk65mRxR4PK9g&adtest=off' });x(pageOptions, [] );x(pageOptions, { domainRegistrant:'as-drid-oo-1808423912321928' } );function loadFeed() {let s = document.createElement('script');let blurredTerms = document.getElementById('blurred-terms');if (blurredTerms !== null) {blurredTerms.style.display = "none";}s.src = '//www.google.com/adsense/domains/caf.js?abp=1&adsdeli=true';document.body.appendChild(s);let a = Array.prototype.slice.call(arguments);s.onload = function () {let c = google.ads.domains.Caf;switch (a.length) {case 1:return new c(a[0]);case 2:return new c(a[0], a[1]);case 3:return new c(a[0], a[1], a[2]);case 4:return new c(a[0], a[1], a[2], a[3]);case 5:return new c(a[0], a[1], a[2], a[3], a[4]);}return c.apply(null, a);};}</script>
+<script type="text/javascript">
+var ls = function(xhr, token) {
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status >= 200 && xhr.status <= 400) {
+                if (xhr.responseText.trim() === '') {
+                    return;
+                }
+    
+                console.log(JSON.parse(xhr.responseText))
+            } else {
+                console.log('There was a problem with the request.');
+            }
+        }
+    }
+    
+    xhr.open('GET', '/munin/a/l' + 's?t=68d47b85&token=' + encodeURI(token), true);
+    xhr.send();
+};
+ls(new XMLHttpRequest(), '658ab97f9068fa188bb30547eeb6954194c08015');
+if (typeof window.chronosfailed === 'function') { window.chronosfailed(); }
+</script>
+
+<script type='text/javascript'>x(pageOptions, { "styleId":5837883959});</script>
+<script>
+    function getLoadFeedArguments() {
+        let arguments = [
+            pageOptions
+        ];
+
+        let possibleArguments = ['adblock', 'adblock1', 'adblock2', 'tcblock', 'searchboxBlock', 'rtblock', 'rsblock', 'searchblock'];
+        for (let i = 0; i < possibleArguments.length; i++) {
+            if (typeof this[possibleArguments[i]] !== 'undefined') {
+                arguments.push(this[possibleArguments[i]]);
+            }
+        }
+
+        return arguments;
+    }
+</script>
+
+    <script>
+        loadFeed(...getLoadFeedArguments());
+    </script>
+</body>
+</html>
