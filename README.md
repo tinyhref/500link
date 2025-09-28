@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn@1.1.84219-1759047383343/gsap-logo.png" alt="GSAP"/> <a target="_blank" href="https://tinyhref.com/gsap">GSAP</a> - A wildly robust JavaScript animation library built for professionals.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.42177-1759044019682/legend-logo.png" alt="Legend State"/> <a target="_blank" href="https://tinyhref.com/legend-state">Legend State</a> - High performance state and local first sync.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47194-1757755464997/zustand-logo.png" alt="Zustand"/> <a target="_blank" href="https://tinyhref.com/zustand">Zustand</a> - Bear necessities for state management.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.72133-1757754682843/redux-logo.png" alt="Redux"/> <a target="_blank" href="https://tinyhref.com/redux">Redux</a> - A JS library for predictable and maintainable global state management.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free@1.1.26653-1757752209808/tanstack-logo.png" alt="TanStack"/> <a target="_blank" href="https://tinyhref.com/tanstack">TanStack</a> - High Quality Open Source Software for Web Developers.</div>
