@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.48147-1762096103475/dola-logo.webp" alt="Dola AI"/> <a target="_blank" href="https://tinyhref.com/dola">Dola AI</a> - Your everyday AI assistant.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.94142-1762081330394/zed-logo.webp" alt="Zed"/> <a target="_blank" href="https://tinyhref.com/zed">Zed</a> - The editor for what&#x27;s next.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94766-1762080797082/cursor-logo.png" alt="Cursor"/> <a target="_blank" href="https://tinyhref.com/cursor">Cursor</a> - The best way to code with AI.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
