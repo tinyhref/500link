@@ -11,6 +11,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.94142-1762081330394/zed-logo.webp" alt="Zed"/> <a target="_blank" href="https://tinyhref.com/zed">Zed</a> - The editor for what&#x27;s next.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94766-1762080797082/cursor-logo.png" alt="Cursor"/> <a target="_blank" href="https://tinyhref.com/cursor">Cursor</a> - The best way to code with AI.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.82157-1762080235358/vscode-logo.png" alt="VSCode"/> <a target="_blank" href="https://tinyhref.com/vscode">VSCode</a> - The open source AI code editor.</div>
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.84219-1759047383343/gsap-logo.png" alt="GSAP"/> <a target="_blank" href="https://tinyhref.com/gsap">GSAP</a> - A wildly robust JavaScript animation library built for professionals.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.42177-1759044019682/legend-logo.png" alt="Legend State"/> <a target="_blank" href="https://tinyhref.com/legend-state">Legend State</a> - High performance state and local first sync.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47194-1757755464997/zustand-logo.png" alt="Zustand"/> <a target="_blank" href="https://tinyhref.com/zustand">Zustand</a> - Bear necessities for state management.</div>
