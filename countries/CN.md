@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.48147-1762096103475/dola-logo.webp" alt="Dola AI"/> <a target="_blank" href="https://tinyhref.com/dola">Dola AI</a> - Your everyday AI assistant.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-dn@1.1.92962-1757260509210/unocss-logo.svg" alt="UnoCSS"/> <a target="_blank" href="https://tinyhref.com/unocss">UnoCSS</a> - The instant on-demand atomic CSS engine.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.39372-1757258408247/rspack-logo.png" alt="Rspack"/> <a target="_blank" href="https://tinyhref.com/rspack">Rspack</a> - The fast Rust-based web bundler with webpack-compatible API.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.83168-1757178405765/vue-logo.png" alt="VueJS"/> <a target="_blank" href="https://tinyhref.com/vuejs">VueJS</a> - The Progressive JavaScript Framework.</div>
