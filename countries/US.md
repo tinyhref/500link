@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.82157-1762080235358/vscode-logo.png" alt="VSCode"/> <a target="_blank" href="https://tinyhref.com/vscode">VSCode</a> - The open source AI code editor.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.55921-1757309178575/typescript-logo.png" alt="TypeScript"/> <a target="_blank" href="https://tinyhref.com/typescript">TypeScript</a> - JavaScript with syntax for types.</div>
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.91275-1757262375218/panda-css-logo.png" alt="Panda CSS"/> <a target="_blank" href="https://tinyhref.com/panda-css">Panda CSS</a> - Build modern websites using build time and type-safe CSS-in-JS.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.76627-1757261433231/twind-logo-animated.svg" alt="Twind"/> <a target="_blank" href="https://tinyhref.com/twind">Twind</a> - The smallest, fastest, most feature complete tailwind-in-js solution in existence.</div>
