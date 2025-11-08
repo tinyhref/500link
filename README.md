@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-cdn-free-hcm@1.1.21487-1762629384578/react-native-logo.png" alt="React Native"/> <a target="_blank" href="https://tinyhref.com/react-native">React Native</a> - Learn once, write anywhere.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.55262-1762628270416/valdi-logo.png" alt="Valdi"/> <a target="_blank" href="https://tinyhref.com/valdi">Valdi</a> - Cross-platform UI framework with true native performance.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.73144-1762098947015/anime-js-logo.jpg" alt="AnimeJS"/> <a target="_blank" href="https://tinyhref.com/anime">AnimeJS</a> - JavaScript Animation Engine.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.67878-1762097593700/chatgpt-atlas-logo.png" alt="ChatGPT Atlas"/> <a target="_blank" href="https://tinyhref.com/chatgpt-atlas">ChatGPT Atlas</a> - The browser with ChatGPT built in.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.48147-1762096103475/dola-logo.webp" alt="Dola AI"/> <a target="_blank" href="https://tinyhref.com/dola">Dola AI</a> - Your everyday AI assistant.</div>
