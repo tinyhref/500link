@@ -11,6 +11,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-hn@1.1.86429-1762670633553/wouter-logo.svg" alt="Wouter"/> <a target="_blank" href="https://tinyhref.com/wouter">Wouter</a> - A minimalist-friendly ~1.5KB routing for React and Preact.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free@1.1.26653-1757752209808/tanstack-logo.png" alt="TanStack Router"/> <a target="_blank" href="https://tinyhref.com/tanstack-router">TanStack Router</a> - Type-safe Routing for React and Solid applications.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.24862-1762668756521/react-router-logo.png" alt="React Router"/> <a target="_blank" href="https://tinyhref.com/react-router">React Router</a> - The Heart of Navigation in React Apps.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-hcm@1.1.21487-1762629384578/react-native-logo.png" alt="React Native"/> <a target="_blank" href="https://tinyhref.com/react-native">React Native</a> - Learn once, write anywhere.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.55262-1762628270416/valdi-logo.png" alt="Valdi"/> <a target="_blank" href="https://tinyhref.com/valdi">Valdi</a> - Cross-platform UI framework with true native performance.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.73144-1762098947015/anime-js-logo.jpg" alt="AnimeJS"/> <a target="_blank" href="https://tinyhref.com/anime">AnimeJS</a> - JavaScript Animation Engine.</div>
