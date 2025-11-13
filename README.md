@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-vi@1.1.95583-1763050237833/dioxus-logo.png" alt="Dioxus"/> <a target="_blank" href="https://tinyhref.com/dioxus">Dioxus</a> - Fullstack crossplatform app framework for Rust.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hn@1.1.86429-1762670633553/wouter-logo.svg" alt="Wouter"/> <a target="_blank" href="https://tinyhref.com/wouter">Wouter</a> - A minimalist-friendly ~1.5KB routing for React and Preact.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free@1.1.26653-1757752209808/tanstack-logo.png" alt="TanStack Router"/> <a target="_blank" href="https://tinyhref.com/tanstack-router">TanStack Router</a> - Type-safe Routing for React and Solid applications.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.24862-1762668756521/react-router-logo.png" alt="React Router"/> <a target="_blank" href="https://tinyhref.com/react-router">React Router</a> - The Heart of Navigation in React Apps.</div>
