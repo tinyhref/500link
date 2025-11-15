@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.15998-1763193120745/neocities-logo.svg" alt="Neocities"/> <a target="_blank" href="https://tinyhref.com/neocities">Neocities</a> - Create your own free website.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.68459-1763179617156/devine-logo.png" alt="diVine"/> <a target="_blank" href="https://tinyhref.com/divine">diVine</a> - Short-form looping videos. Authentic moments. Human creativity.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-vi@1.1.95583-1763050237833/dioxus-logo.png" alt="Dioxus"/> <a target="_blank" href="https://tinyhref.com/dioxus">Dioxus</a> - Fullstack crossplatform app framework for Rust.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hn@1.1.86429-1762670633553/wouter-logo.svg" alt="Wouter"/> <a target="_blank" href="https://tinyhref.com/wouter">Wouter</a> - A minimalist-friendly ~1.5KB routing for React and Preact.</div>
