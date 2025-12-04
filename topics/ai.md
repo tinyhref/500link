@@ -1,0 +1,27 @@
+<div align="center"><a target="_blank" href="https://tinyhref.com"><img src="https://i.imgur.com/cY13Vvb.png" height="128" alt="tinyhref"/></a></div>
+<h1 align="center"><a target="_blank" href="https://tinyhref.com">500link</a> - AI</h1>
+<p align="center">Introducing new products, find inspiration and new ideas</p>
+
+<div align="center"><a target="_blank" href="https://tinyhref.com/submit"><img src="https://img.shields.io/badge/Submit-c32769.svg?style=flat" alt="submit"/></a>
+<a target="_blank" href="https://x.com/intent/follow?screen_name=tinyhref"><img src="https://img.shields.io/twitter/follow/tinyhref" alt="submit"/></a></div>
+
+<img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
+
+<div><img width="16" src="https://esm.sh/link-public-cdn@1.1.28612-1764036203590/chad-logo.webp" alt="Chad IDE"/> <a target="_blank" href="https://tinyhref.com/chad">Chad IDE</a> - the first brainrot IDE.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free@1.1.27484-1763733980426/antigravity-logo.png" alt="Antigravity"/> <a target="_blank" href="https://tinyhref.com/antigravity">Antigravity</a> - Experience liftoff with the next-generation IDE.</div>
+<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.48147-1762096103475/dola-logo.webp" alt="Dola AI"/> <a target="_blank" href="https://tinyhref.com/dola">Dola AI</a> - Your everyday AI assistant.</div>
+<div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.94142-1762081330394/zed-logo.webp" alt="Zed"/> <a target="_blank" href="https://tinyhref.com/zed">Zed</a> - The editor for what&#x27;s next.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94766-1762080797082/cursor-logo.png" alt="Cursor"/> <a target="_blank" href="https://tinyhref.com/cursor">Cursor</a> - The best way to code with AI.</div>
+<div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
+<div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
+<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
+<div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://tinyhref.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
+<div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://tinyhref.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
+<div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://tinyhref.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
+<div><img width="16" src="https://i.imgur.com/u8m14nY.png" alt="Chatwith"/> <a target="_blank" href="https://tinyhref.com/chatwith">Chatwith</a> - Custom ChatGPT chatbot with your website &amp; files.</div>
+<div><img width="16" src="https://i.imgur.com/4gPkxSI.png" alt="AI Pill 💊"/> <a target="_blank" href="https://tinyhref.com/aipill">AI Pill 💊</a> - The Premier AI Tools Hub.</div>
+<div><img width="16" src="https://i.imgur.com/ebTW2Oq.png" alt="DeepSeek"/> <a target="_blank" href="https://tinyhref.com/deepseek">DeepSeek</a> - Chat with DeepSeek AI.</div>
+<div><img width="16" src="https://i.imgur.com/YTMBMXC.png" alt="Trae"/> <a target="_blank" href="https://tinyhref.com/trae">Trae</a> - Ship Faster with Trae.</div>
+<div><img width="16" src="https://i.imgur.com/tal6wNl.png" alt="PearAI"/> <a target="_blank" href="https://tinyhref.com/pearai">PearAI</a> - Open source, extendable AI code editor.</div>
+<div><img width="16" src="https://i.imgur.com/gpoybl3.jpeg" alt="YEScale"/> <a target="_blank" href="https://tinyhref.com/yescale">YEScale</a> - Scale Your AI. Instantly.</div>
+<div><img width="16" src="https://i.imgur.com/vKddPK2.png" alt="ChatGPT"/> <a target="_blank" href="https://tinyhref.com/chatgpt">ChatGPT</a> - Helps you get answers, find inspiration and be more productive.</div>
