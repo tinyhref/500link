@@ -14,7 +14,7 @@
 <div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94766-1762080797082/cursor-logo.png" alt="Cursor"/> <a target="_blank" href="https://tinyhref.com/cursor">Cursor</a> - The best way to code with AI.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
 <div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
-<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.79411-1768712899511/logo-snapedit.jpg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
 <div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://tinyhref.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
 <div><img width="16" src="https://i.imgur.com/2MTGjUR.jpeg" alt="TypingMind"/> <a target="_blank" href="https://tinyhref.com/typingmind">TypingMind</a> - LLM Frontend Chat UI for AI models.</div>
 <div><img width="16" src="https://i.imgur.com/Lyp5yTG.png" alt="Manus"/> <a target="_blank" href="https://tinyhref.com/manus">Manus</a> - a General agent doesn&#x27;t just think, but delivers results.</div>
