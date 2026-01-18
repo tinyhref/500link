@@ -64,7 +64,7 @@
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
 <div><img width="16" src="https://i.imgur.com/qOjDNCk.jpeg" alt="TanStack Form"/> <a target="_blank" href="https://tinyhref.com/tanstack-form">TanStack Form</a> - Headless, performant, and type-safe form state management.</div>
 <div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
-<div><img width="16" src="https://i.imgur.com/jAeiAIK.jpeg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.79411-1768712899511/logo-snapedit.jpg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
 <div><img width="16" src="https://i.imgur.com/cUzM1O4.jpeg" alt="Motion"/> <a target="_blank" href="https://tinyhref.com/motion">Motion</a> - A modern animation library for JavaScript and React.</div>
 <div><img width="16" src="https://i.imgur.com/57xxGKM.png" alt="Xyris"/> <a target="_blank" href="https://tinyhref.com/xyris">Xyris</a> - Free Online SVG Animator - Create Animated SVGs without Coding.</div>
 <div><img width="16" src="https://i.imgur.com/hPz3X5e.png" alt="Fly.Pieter.com"/> <a target="_blank" href="https://tinyhref.com/fly-pieter">Fly.Pieter.com</a> - The AI-Powered Flight Simulator Game.</div>
