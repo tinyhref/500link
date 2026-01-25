@@ -62,7 +62,7 @@
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.83168-1757178405765/vue-logo.png" alt="VueJS"/> <a target="_blank" href="https://tinyhref.com/vuejs">VueJS</a> - The Progressive JavaScript Framework.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.68955-1757171948700/logo-react.png" alt="ReactJS"/> <a target="_blank" href="https://tinyhref.com/react">ReactJS</a> - The library for web and native user interfaces.</div>
 <div><img width="16" src="https://i.imgur.com/0LnuA9r.png" alt="Rust"/> <a target="_blank" href="https://tinyhref.com/rust">Rust</a> - The Safe and High-Performance Programming Language.</div>
-<div><img width="16" src="https://i.imgur.com/8T7X8al.png" alt="J2TEAM Community"/> <a target="_blank" href="https://tinyhref.com/j2team">J2TEAM Community</a> - A Diverse and Creative Online Space.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.39128-1769355533020/j2team-logo.png" alt="J2TEAM Community"/> <a target="_blank" href="https://tinyhref.com/j2team">J2TEAM Community</a> - A Diverse and Creative Online Space.</div>
 <div><img width="16" src="https://i.imgur.com/fxv2lJO.png" alt="PhotoAI"/> <a target="_blank" href="https://tinyhref.com/photoai">PhotoAI</a> - AI Photo &amp; Video Generator.</div>
 <div><img width="16" src="https://i.imgur.com/qOjDNCk.jpeg" alt="TanStack Form"/> <a target="_blank" href="https://tinyhref.com/tanstack-form">TanStack Form</a> - Headless, performant, and type-safe form state management.</div>
 <div><img width="16" src="https://i.imgur.com/yNJNkcf.png" alt="Bolt.new"/> <a target="_blank" href="https://tinyhref.com/bolt.new">Bolt.new</a> - Prompt, run, edit, and deploy full-stack web and mobile apps.</div>
