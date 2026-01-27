@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.58147-1769527551253/moltbot-logo.png" alt="Moltbot"/> <a target="_blank" href="https://tinyhref.com/moltbot">Moltbot</a> - The AI that actually does things. Your personal assistant on any platform.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-vn@1.1.11946-1768730911831/claude-logo.png" alt="Cowork"/> <a target="_blank" href="https://tinyhref.com/cowork">Cowork</a> - Turn Claude into your digital coworker.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn@1.1.28612-1764036203590/chad-logo.webp" alt="Chad IDE"/> <a target="_blank" href="https://tinyhref.com/chad">Chad IDE</a> - the first brainrot IDE.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free@1.1.27484-1763733980426/antigravity-logo.png" alt="Antigravity"/> <a target="_blank" href="https://tinyhref.com/antigravity">Antigravity</a> - Experience liftoff with the next-generation IDE.</div>
