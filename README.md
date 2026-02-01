@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn@1.1.68911-1769957202334/viec-lon-cover.jpeg" alt="Việc lớn"/> <a target="_blank" href="https://tinyhref.com/vieclon">Việc lớn</a> - Đen ft. Nhóm Dòng Thời Gian.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.58147-1769527551253/moltbot-logo.png" alt="Moltbot"/> <a target="_blank" href="https://tinyhref.com/moltbot">Moltbot</a> - The AI that actually does things. Your personal assistant on any platform.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-dn@1.1.36526-1768750487102/zalo-logo.webp" alt="Zalo"/> <a target="_blank" href="https://tinyhref.com/zalo">Zalo</a> - A simple, reliable, and private communication platform.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-vn@1.1.11946-1768730911831/claude-logo.png" alt="Cowork"/> <a target="_blank" href="https://tinyhref.com/cowork">Cowork</a> - Turn Claude into your digital coworker.</div>
