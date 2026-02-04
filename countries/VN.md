@@ -7,6 +7,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-vn@1.1.93464-1770218150336/con-gi-dep-hon-cover.jpg" alt="Còn gì đẹp hơn"/> <a target="_blank" href="https://tinyhref.com/congidephon">Còn gì đẹp hơn</a> - Ca khúc lấy cảm hứng từ phim Mưa đỏ - Nguyễn Hùng.</div>
+<div><img width="16" src="https://esm.sh/cdn-free@1.1.46414-1770215266273/tet-tan-toi-cover.jpg" alt="Tết tấn tới"/> <a target="_blank" href="https://tinyhref.com/tettantoi">Tết tấn tới</a> - Trúc nhân x DTAP.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-dn@1.1.36526-1768750487102/zalo-logo.webp" alt="Zalo"/> <a target="_blank" href="https://tinyhref.com/zalo">Zalo</a> - A simple, reliable, and private communication platform.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.39128-1769355533020/j2team-logo.png" alt="J2TEAM Community"/> <a target="_blank" href="https://tinyhref.com/j2team">J2TEAM Community</a> - A Diverse and Creative Online Space.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.79411-1768712899511/logo-snapedit.jpg" alt="SnapEdit"/> <a target="_blank" href="https://tinyhref.com/snapedit">SnapEdit</a> - Photo Editor Online - AI Editing Photo Free.</div>
