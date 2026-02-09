@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn@1.1.79982-1770641947143/vi-cover.jpeg" alt="Vì"/> <a target="_blank" href="https://tinyhref.com/vi-marzuz">Vì</a> - marzuz ft justatee.</div>
 <div><img width="16" src="https://esm.sh/public-cdn@1.1.52958-1770440146063/thay-trung-nhan-giua-thien-ha-cover.jpg" alt="Thấy Trung Nhân Giữa Thiên Hạ"/> <a target="_blank" href="https://tinyhref.com/ttngth">Thấy Trung Nhân Giữa Thiên Hạ</a> - Phan Mạnh Quỳnh x Tăng Duy Tân.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-vn@1.1.94616-1770355053238/van-su-nhu-y-cover.jpg" alt="Vạn sự như ý"/> <a target="_blank" href="https://tinyhref.com/vansunhuy">Vạn sự như ý</a> - Trúc Nhân.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-vn@1.1.93464-1770218150336/con-gi-dep-hon-cover.jpg" alt="Còn gì đẹp hơn"/> <a target="_blank" href="https://tinyhref.com/congidephon">Còn gì đẹp hơn</a> - Ca khúc lấy cảm hứng từ phim Mưa đỏ - Nguyễn Hùng.</div>
