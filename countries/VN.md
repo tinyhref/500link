@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free@1.1.42872-1771596977989/o-trong-khu-rung-cover.jpg" alt="Ở Trong Khu Rừng"/> <a target="_blank" href="https://tinyhref.com/otrongkhurung">Ở Trong Khu Rừng</a> - OST Cảm Ơn Người Đã Thức Cùng Tôi.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.56772-1771346123212/tet-ve-la-duoc-cover.jpg" alt="Tết về là được"/> <a target="_blank" href="https://tinyhref.com/tetveladuoc">Tết về là được</a> - Garena Delta Force.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.83513-1770817479154/rock-thiep-hong-cover.jpg" alt="Rock Thiệp Hồng"/> <a target="_blank" href="https://tinyhref.com/rockthiephong">Rock Thiệp Hồng</a> - Tóc Tiên, MaiQuinn, Đào Tử A1J, Muộii, Yeolan.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.32236-1770736186403/goi-anh-day-cover.jpg" alt="Gọi Anh Dậy"/> <a target="_blank" href="https://tinyhref.com/goianhday">Gọi Anh Dậy</a> - Binz.</div>
