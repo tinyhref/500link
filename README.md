@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.68963-1771697505991/256x256.png" alt="ClawX"/> <a target="_blank" href="https://tinyhref.com/clawx">ClawX</a> - Your AI Researcher, 24/7 Online.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-vi@1.1.18677-1771685134282/nho-nho-quen-quen-cover.jpeg" alt="Nhớ Nhớ Quên Quên"/> <a target="_blank" href="https://tinyhref.com/nhonhoquenquen">Nhớ Nhớ Quên Quên</a> - OST Nhà Ba Tôi Một Phòng.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vi@1.1.51936-1771644914606/react-doctor-logo.png" alt="React Doctor"/> <a target="_blank" href="https://tinyhref.com/react-doctor">React Doctor</a> - Let coding agents diagnose and fix your React code.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.96269-1771642486971/openclaw-logo.png" alt="OpenClaw"/> <a target="_blank" href="https://tinyhref.com/openclaw">OpenClaw</a> - The AI that actually does things.</div>
