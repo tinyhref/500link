@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.71763-1771755971611/tho-oi-cover.jpg" alt="Thỏ ơi"/> <a target="_blank" href="https://tinyhref.com/tho-oi">Thỏ ơi</a> - Một bộ phim của Trấn Thành.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-vi@1.1.18677-1771685134282/nho-nho-quen-quen-cover.jpeg" alt="Nhớ Nhớ Quên Quên"/> <a target="_blank" href="https://tinyhref.com/nhonhoquenquen">Nhớ Nhớ Quên Quên</a> - OST Nhà Ba Tôi Một Phòng.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.22717-1771601811756/dua-tre-mua-dong-chi-cover.jpg" alt="Đứa Trẻ Mùa Đông Chí"/> <a target="_blank" href="https://tinyhref.com/duatremuadongchi">Đứa Trẻ Mùa Đông Chí</a> - OST Nhà Ba Tôi Một Phòng.</div>
 <div><img width="16" src="https://esm.sh/cdn-free@1.1.42872-1771596977989/o-trong-khu-rung-cover.jpg" alt="Ở Trong Khu Rừng"/> <a target="_blank" href="https://tinyhref.com/otrongkhurung">Ở Trong Khu Rừng</a> - OST Cảm Ơn Người Đã Thức Cùng Tôi.</div>
