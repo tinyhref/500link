@@ -11,7 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
-<div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.82349-1772717642981/hoa-hong-ai-vun-trong-cover.jpeg" alt="Hoa Hồng Ai Vun Trồng"/> <a target="_blank" href="https://tinyhref.com/hoahongaivuntrong">Hoa Hồng Ai Vun Trồng</a> - Minh Hằng x Tóc Tiên x Dtap.</div>
+<div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.82349-1772717642981/hoa-hong-ai-vun-trong-cover.jpeg" alt="Hoa Hồng Ai Vun Trồng"/> <a target="_blank" href="https://tinyhref.com/hoahongaivuntrong">Hoa Hồng Ai Vun Trồng</a> - Minh Hằng x Tóc Tiên x DTAP.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn@1.1.18811-1771819906069/nghe-thuat-lua-doi-cua-sarah.webp" alt="The Art of Sarah"/> <a target="_blank" href="https://tinyhref.com/the-art-of-sarah">The Art of Sarah</a> - Only on Netflix.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.71763-1771755971611/tho-oi-cover.jpg" alt="Thỏ ơi"/> <a target="_blank" href="https://tinyhref.com/tho-oi">Thỏ ơi</a> - Một bộ phim của Trấn Thành.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.68963-1771697505991/256x256.png" alt="ClawX"/> <a target="_blank" href="https://tinyhref.com/clawx">ClawX</a> - Your AI Researcher, 24/7 Online.</div>
