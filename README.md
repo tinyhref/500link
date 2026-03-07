@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-cdn-free-vi@1.1.11539-1772854959822/50-nam-ve-sau-cover.jpg" alt="50 Năm Về Sau"/> <a target="_blank" href="https://tinyhref.com/50namvesau">50 Năm Về Sau</a> - F47 Cover x Đặng Thanh Tuyền.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.94283-1772806080886/big-girl-dont-you-cry-cover.jpeg" alt="Big Girl Don’t You Cry"/> <a target="_blank" href="https://tinyhref.com/biggirldontyoucry">Big Girl Don’t You Cry</a> - Châu Bùi.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hcm@1.1.82349-1772717642981/hoa-hong-ai-vun-trong-cover.jpeg" alt="Hoa Hồng Ai Vun Trồng"/> <a target="_blank" href="https://tinyhref.com/hoahongaivuntrong">Hoa Hồng Ai Vun Trồng</a> - Minh Hằng x Tóc Tiên x DTAP.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn@1.1.18811-1771819906069/nghe-thuat-lua-doi-cua-sarah.webp" alt="The Art of Sarah"/> <a target="_blank" href="https://tinyhref.com/the-art-of-sarah">The Art of Sarah</a> - Only on Netflix.</div>
