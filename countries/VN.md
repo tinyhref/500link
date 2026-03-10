@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.68951-1773119495791/nguoi-im-lang-gap-nguoi-hay-noi-cover.jpg" alt="Người Im Lặng Gặp Người Hay Nói"/> <a target="_blank" href="https://tinyhref.com/nilgnhn">Người Im Lặng Gặp Người Hay Nói</a> - HIEUTHUHAI.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.65554-1769435001568/hlce-cover.jpg" alt="Hôn lễ của em"/> <a target="_blank" href="https://tinyhref.com/hlce">Hôn lễ của em</a> - Trọng Nhân | Tiểu Mỹ.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.62452-1772875408859/ai-dua-em-ve-cover.jpeg" alt="Ai Đưa Em Về"/> <a target="_blank" href="https://tinyhref.com/aiduaemve">Ai Đưa Em Về</a> - TIA x Lê Thiện Hiếu.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vn@1.1.94283-1772806080886/big-girl-dont-you-cry-cover.jpeg" alt="Big Girl Don’t You Cry"/> <a target="_blank" href="https://tinyhref.com/biggirldontyoucry">Big Girl Don’t You Cry</a> - Châu Bùi.</div>
