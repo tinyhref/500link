@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn-dn@1.1.83388-1773500442578/ly-giai-cover.jpeg" alt="Lý Giải"/> <a target="_blank" href="https://tinyhref.com/lygiai">Lý Giải</a> - Hoàng Dũng.</div>
+<div><img width="16" src="https://esm.sh/cdn-free@1.1.41291-1773499438940/khong-buong-cover.jpeg" alt="Không Buông"/> <a target="_blank" href="https://tinyhref.com/khongbuong">Không Buông</a> - Hngle x Ari.</div>
 <div><img width="16" src="https://esm.sh/cdn-free@1.1.54947-1773473264512/thanh-tan-cover.jpeg" alt="Thanh Tân"/> <a target="_blank" href="https://tinyhref.com/thanhtan">Thanh Tân</a> - Vương Bình.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vi@1.1.28116-1773421477847/cam-on-nguoi-da-thu-cung-toi-cover.jpeg" alt="Cảm Ơn Người Đã Thức Cùng Tôi"/> <a target="_blank" href="https://tinyhref.com/condtct">Cảm Ơn Người Đã Thức Cùng Tôi</a> - Phùng Khánh Linh.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.68951-1773119495791/nguoi-im-lang-gap-nguoi-hay-noi-cover.jpg" alt="Người Im Lặng Gặp Người Hay Nói"/> <a target="_blank" href="https://tinyhref.com/nilgnhn">Người Im Lặng Gặp Người Hay Nói</a> - HIEUTHUHAI.</div>
