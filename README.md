@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-vn@1.1.46172-1773540042274/chang-phai-tinh-dau-sao-dau-den-the-cover.jpeg" alt="Chẳng phải tình đầu sao đau đến thế"/> <a target="_blank" href="https://tinyhref.com/cptdsddt">Chẳng phải tình đầu sao đau đến thế</a> - MIN x Dangrangto.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-dn@1.1.83388-1773500442578/ly-giai-cover.jpeg" alt="Lý Giải"/> <a target="_blank" href="https://tinyhref.com/lygiai">Lý Giải</a> - Hoàng Dũng.</div>
 <div><img width="16" src="https://esm.sh/cdn-free@1.1.41291-1773499438940/khong-buong-cover.jpeg" alt="Không Buông"/> <a target="_blank" href="https://tinyhref.com/khongbuong">Không Buông</a> - Hngle x Ari.</div>
 <div><img width="16" src="https://esm.sh/cdn-free@1.1.54947-1773473264512/thanh-tan-cover.jpeg" alt="Thanh Tân"/> <a target="_blank" href="https://tinyhref.com/thanhtan">Thanh Tân</a> - Vương Bình.</div>
