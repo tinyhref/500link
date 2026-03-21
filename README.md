@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47481-1774061124474/gia-vo-cover.jpeg" alt="Giả Vờ"/> <a target="_blank" href="https://tinyhref.com/giavo">Giả Vờ</a> - Phùng Khánh Linh.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vi@1.1.29632-1773563982520/ai-ngoai-anh-cover.jpeg" alt="Ai Ngoài Anh"/> <a target="_blank" href="https://tinyhref.com/aingoaianh">Ai Ngoài Anh</a> - VSTRA.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.87248-1773548965628/ngay-roi-chuyen-bay-cover.webp" alt="Ngày Rời Chuyến Bay"/> <a target="_blank" href="https://tinyhref.com/ngayroichuyenbay">Ngày Rời Chuyến Bay</a> - Minh Huy x Pinny.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-vn@1.1.46172-1773540042274/chang-phai-tinh-dau-sao-dau-den-the-cover.jpeg" alt="Chẳng phải tình đầu sao đau đến thế"/> <a target="_blank" href="https://tinyhref.com/cptdsddt">Chẳng phải tình đầu sao đau đến thế</a> - MIN x Dangrangto.</div>
