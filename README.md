@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn-hn@1.1.72511-1774198688382/dep-ma-cover.jpeg" alt="Đẹp Mã"/> <a target="_blank" href="https://tinyhref.com/depma">Đẹp Mã</a> - Gemini Hùng Huỳnh x Hoà Minzy.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.36939-1774109425692/tiep-nhien-lieu-cover.jpeg" alt="Tiếp Nhiên Liệu"/> <a target="_blank" href="https://tinyhref.com/tiepnhienlieu">Tiếp Nhiên Liệu</a> - Ngọc Thanh Tâm.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47481-1774061124474/gia-vo-cover.jpeg" alt="Giả Vờ"/> <a target="_blank" href="https://tinyhref.com/giavo">Giả Vờ</a> - Phùng Khánh Linh.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vi@1.1.29632-1773563982520/ai-ngoai-anh-cover.jpeg" alt="Ai Ngoài Anh"/> <a target="_blank" href="https://tinyhref.com/aingoaianh">Ai Ngoài Anh</a> - VSTRA.</div>
