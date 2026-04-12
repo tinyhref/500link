@@ -7,6 +7,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn-hcm@1.1.33172-1775992775495/me-cung-cover.jpeg" alt="Mê Cung"/> <a target="_blank" href="https://tinyhref.com/mecung">Mê Cung</a> - Rayeon x Công Dương.</div>
+<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.86857-1775984015502/som-nhu-vay-cover.jpeg" alt="Sớm Như Vậy"/> <a target="_blank" href="https://tinyhref.com/somnhuvay">Sớm Như Vậy</a> - buitruonglinh.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-hn@1.1.72511-1774198688382/dep-ma-cover.jpeg" alt="Đẹp Mã"/> <a target="_blank" href="https://tinyhref.com/depma">Đẹp Mã</a> - Gemini Hùng Huỳnh x Hoà Minzy.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.36939-1774109425692/tiep-nhien-lieu-cover.jpeg" alt="Tiếp Nhiên Liệu"/> <a target="_blank" href="https://tinyhref.com/tiepnhienlieu">Tiếp Nhiên Liệu</a> - Ngọc Thanh Tâm.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47481-1774061124474/gia-vo-cover.jpeg" alt="Giả Vờ"/> <a target="_blank" href="https://tinyhref.com/giavo">Giả Vờ</a> - Phùng Khánh Linh.</div>
