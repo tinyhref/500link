@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-vi@1.1.37335-1777200150929/mua-he-tuyet-voi-cover.jpeg" alt="Mùa hè tuyệt vời"/> <a target="_blank" href="https://tinyhref.com/muahetuyetvoi">Mùa hè tuyệt vời</a> - Đức Phúc x Tăng Duy Tân.</div>
+<div><img width="16" src="https://esm.sh/file-public-cdn-dn@1.1.39817-1777197404955/gac-lai-au-lo-cover.jpeg" alt="Gác lại âu lo"/> <a target="_blank" href="https://tinyhref.com/gaclaiaulo">Gác lại âu lo</a> - Da LAB x Miu Lê.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vn@1.1.78841-1776168956712/bong-phu-hoa-cover.jpg" alt="Bóng Phù Hoa"/> <a target="_blank" href="https://tinyhref.com/bongphuhoa">Bóng Phù Hoa</a> - Phương Mỹ Chi x Rhyder.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-hcm@1.1.33172-1775992775495/me-cung-cover.jpeg" alt="Mê Cung"/> <a target="_blank" href="https://tinyhref.com/mecung">Mê Cung</a> - Rayeon x Công Dương.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.86857-1775984015502/som-nhu-vay-cover.jpeg" alt="Sớm Như Vậy"/> <a target="_blank" href="https://tinyhref.com/somnhuvay">Sớm Như Vậy</a> - buitruonglinh.</div>
