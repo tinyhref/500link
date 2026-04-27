@@ -7,6 +7,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/link-public-cdn-hn@1.1.18266-1777272089251/ban-doi-cover.jpeg" alt="Bạn Đời"/> <a target="_blank" href="https://tinyhref.com/bandoi">Bạn Đời</a> - Karik x GDucky.</div>
+<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.94273-1777270948727/binh-yen-cover.jpg" alt="Bình yên"/> <a target="_blank" href="https://tinyhref.com/binhyen">Bình yên</a> - Vũ x Binz.</div>
+<div><img width="16" src="https://esm.sh/public-cdn@1.1.77812-1777264571970/yeu-mot-nguoi-co-le-cover.jpeg" alt="Yêu Một Người Có Lẽ"/> <a target="_blank" href="https://tinyhref.com/yeumotnguoicole">Yêu Một Người Có Lẽ</a> - Lou Hoàng x Miu Lê.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.18123-1777262690714/forever-alone-cover.jpeg" alt="Forever Alone"/> <a target="_blank" href="https://tinyhref.com/foreveralone">Forever Alone</a> - JustaTee.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.84427-1777261796694/cu-chill-thoi-cover.jpeg" alt="Cứ Chill Thôi"/> <a target="_blank" href="https://tinyhref.com/cuchillthoi">Cứ Chill Thôi</a> - Chillies x Suni Hạ Linh x Rhymastic.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn-vi@1.1.13562-1777259929295/bai-nay-chill-phet-cover.jpeg" alt="Bài Này Chill Phết"/> <a target="_blank" href="https://tinyhref.com/bainaychillphet">Bài Này Chill Phết</a> - Đen x MIN.</div>
