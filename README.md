@@ -11,6 +11,9 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.18123-1777262690714/forever-alone-cover.jpeg" alt="Forever Alone"/> <a target="_blank" href="https://tinyhref.com/foreveralone">Forever Alone</a> - JustaTee.</div>
+<div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.84427-1777261796694/cu-chill-thoi-cover.jpeg" alt="Cứ Chill Thôi"/> <a target="_blank" href="https://tinyhref.com/cuchillthoi">Cứ Chill Thôi</a> - Chillies x Suni Hạ Linh x Rhymastic.</div>
+<div><img width="16" src="https://esm.sh/link-public-cdn-vi@1.1.13562-1777259929295/bai-nay-chill-phet-cover.jpeg" alt="Bài Này Chill Phết"/> <a target="_blank" href="https://tinyhref.com/bainaychillphet">Bài Này Chill Phết</a> - Đen x MIN.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn@1.1.68813-1777214692867/ben-tren-tang-lau-cover.jpeg" alt="Bên Trên Tầng Lầu"/> <a target="_blank" href="https://tinyhref.com/bentrentanglau">Bên Trên Tầng Lầu</a> - Tăng Duy Tân.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.61462-1777213014405/bat-tinh-yeu-len-cover.jpeg" alt="Bật Tình Yêu Lên"/> <a target="_blank" href="https://tinyhref.com/battinhyeulen">Bật Tình Yêu Lên</a> - Hòa Minzy x Tăng Duy Tân.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-vi@1.1.37335-1777200150929/mua-he-tuyet-voi-cover.jpeg" alt="Mùa hè tuyệt vời"/> <a target="_blank" href="https://tinyhref.com/muahetuyetvoi">Mùa hè tuyệt vời</a> - Đức Phúc x Tăng Duy Tân.</div>
