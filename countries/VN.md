@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.32164-1777484277008/e-la-khong-the-cover.jpeg" alt="E Là Không Thể"/> <a target="_blank" href="https://tinyhref.com/elakhongthe">E Là Không Thể</a> - Anh Quân Idol x Đông Thiên Đức.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.77835-1777471753717/nguoi-viet-minh-thuong-nhau-cover.jpeg" alt="Người Việt Mình Thương Nhau"/> <a target="_blank" href="https://tinyhref.com/nvmtn">Người Việt Mình Thương Nhau</a> - Cẩm Ly x Hòa Minzy x Châu Đăng Khoa.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.95912-1777468299601/2am-cover.jpeg" alt="2AM"/> <a target="_blank" href="https://tinyhref.com/2am">2AM</a> - JustaTee x BigDaddy.</div>
 <div><img width="16" src="https://esm.sh/link-public-cdn@1.1.58614-1777298040693/tuy-am-cover.jpeg" alt="Túy Âm"/> <a target="_blank" href="https://tinyhref.com/tuyam">Túy Âm</a> - Xesi x Masew x Nhatnguyen.</div>
