@@ -7,6 +7,10 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.46824-1777523127451/phia-sau-mot-co-gai-cover.jpg" alt="Phía Sau Một Cô Gái"/> <a target="_blank" href="https://tinyhref.com/phiasaumotcogai">Phía Sau Một Cô Gái</a> - Soobin Hoàng Sơn.</div>
+<div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.83876-1777520833122/thinh-vuong-viet-nam-sang-ngoi-cover.jpeg" alt="Thịnh Vượng Việt Nam Sáng Ngời"/> <a target="_blank" href="https://tinyhref.com/tvvnsn">Thịnh Vượng Việt Nam Sáng Ngời</a> - buitruonglinh.</div>
+<div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.28766-1777518409905/anh-nho-em-nguoi-yeu-cu-cover.jpg" alt="Anh Nhớ Em Người Yêu Cũ"/> <a target="_blank" href="https://tinyhref.com/anenyc">Anh Nhớ Em Người Yêu Cũ</a> - Minh Vương.</div>
+<div><img width="16" src="https://esm.sh/cdn-free-vn@1.1.93287-1777513893158/phep-mau-cover.jpeg" alt="Phép Màu"/> <a target="_blank" href="https://tinyhref.com/phepmau">Phép Màu</a> - Đàn Cá Gỗ OST.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.32164-1777484277008/e-la-khong-the-cover.jpeg" alt="E Là Không Thể"/> <a target="_blank" href="https://tinyhref.com/elakhongthe">E Là Không Thể</a> - Anh Quân Idol x Đông Thiên Đức.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.77835-1777471753717/nguoi-viet-minh-thuong-nhau-cover.jpeg" alt="Người Việt Mình Thương Nhau"/> <a target="_blank" href="https://tinyhref.com/nvmtn">Người Việt Mình Thương Nhau</a> - Cẩm Ly x Hòa Minzy x Châu Đăng Khoa.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.95912-1777468299601/2am-cover.jpeg" alt="2AM"/> <a target="_blank" href="https://tinyhref.com/2am">2AM</a> - JustaTee x BigDaddy.</div>
