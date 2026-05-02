@@ -8,8 +8,16 @@
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
 <div><img width="16" src="https://esm.sh/file-public-cdn-dn@1.1.36526-1768750487102/zalo-logo.webp" alt="Zalo"/> <a target="_blank" href="https://tinyhref.com/zalo">Zalo</a> - A simple, reliable, and private communication platform.</div>
+<div><img width="16" src="https://esm.sh/file-public-cdn-dn@1.1.36526-1768750487102/zalo-logo.webp" alt="Zalo"/> <a target="_blank" href="https://tinyhref.com/zalo">Zalo</a> - Nền tảng giao tiếp đơn giản, tin cậy, riêng tư.</div>
+<div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://tinyhref.com/fitroom">FitRoom</a> - Thay quần áo trực tuyến với AI.</div>
 <div><img width="16" src="https://i.imgur.com/UTt7DPT.jpeg" alt="FitRoom"/> <a target="_blank" href="https://tinyhref.com/fitroom">FitRoom</a> - Change Clothes Online with AI.</div>
+<div><img width="16" src="https://i.imgur.com/Pqj8dET.jpeg" alt="9tube"/> <a target="_blank" href="https://tinyhref.com/9tube">9tube</a> - Khám phá thế giới âm nhạc và video sôi động.</div>
 <div><img width="16" src="https://i.imgur.com/Pqj8dET.jpeg" alt="9tube"/> <a target="_blank" href="https://tinyhref.com/9tube">9tube</a> - Discover a world of vibrant music and videos.</div>
+<div><img width="16" src="https://i.imgur.com/Imzg8Lv.png" alt="Lotus Chat"/> <a target="_blank" href="https://tinyhref.com/lotuschat">Lotus Chat</a> - Ứng dụng chat, nhắn tin dành riêng cho người Việt.</div>
+<div><img width="16" src="https://i.imgur.com/flNuwaP.png" alt="CapCut"/> <a target="_blank" href="https://tinyhref.com/capcut">CapCut</a> - Công cụ chỉnh sửa video và thiết kế đồ họa tất cả trong một.</div>
+<div><img width="16" src="https://i.imgur.com/u8dRWfg.png" alt="Notion"/> <a target="_blank" href="https://tinyhref.com/notion">Notion</a> - Không gian làm việc tất cả trong một cho ghi chú, tác vụ, wiki và cơ sở dữ liệu.</div>
+<div><img width="16" src="https://i.imgur.com/25mnkzJ.png" alt="Figma"/> <a target="_blank" href="https://tinyhref.com/figma">Figma</a> - Công cụ thiết kế giao diện cộng tác.</div>
+<div><img width="16" src="https://i.imgur.com/DCXLu8x.jpeg" alt="Canva"/> <a target="_blank" href="https://tinyhref.com/canva">Canva</a> - Visual Suite dành cho mọi người.</div>
 <div><img width="16" src="https://i.imgur.com/GtwsHvB.jpeg" alt="Binsoo"/> <a target="_blank" href="https://tinyhref.com/binsoo">Binsoo</a> - Photo filters &amp; editor.</div>
 <div><img width="16" src="https://i.imgur.com/Imzg8Lv.png" alt="Lotus Chat"/> <a target="_blank" href="https://tinyhref.com/lotuschat">Lotus Chat</a> - Chat and messaging application exclusively for Vietnamese people.</div>
 <div><img width="16" src="https://i.imgur.com/LRHxdYd.jpeg" alt="Arc Browser"/> <a target="_blank" href="https://tinyhref.com/arc-browser">Arc Browser</a> - Bridging experience and technology.</div>
