@@ -11,6 +11,8 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.47934-1777696856373/my-love-cover.jpeg" alt="My Love"/> <a target="_blank" href="https://tinyhref.com/mylove">My Love</a> - .</div>
+<div><img width="16" src="https://esm.sh/public-cdn-dn@1.1.21776-1777693720796/until-you-cover.jpeg" alt="Until You"/> <a target="_blank" href="https://tinyhref.com/untilyou">Until You</a> - .</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.46824-1777523127451/phia-sau-mot-co-gai-cover.jpg" alt="Phía Sau Một Cô Gái"/> <a target="_blank" href="https://tinyhref.com/phiasaumotcogai">Phía Sau Một Cô Gái</a> - Soobin Hoàng Sơn.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.83876-1777520833122/thinh-vuong-viet-nam-sang-ngoi-cover.jpeg" alt="Thịnh Vượng Việt Nam Sáng Ngời"/> <a target="_blank" href="https://tinyhref.com/tvvnsn">Thịnh Vượng Việt Nam Sáng Ngời</a> - buitruonglinh.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-vn@1.1.28766-1777518409905/anh-nho-em-nguoi-yeu-cu-cover.jpg" alt="Anh Nhớ Em Người Yêu Cũ"/> <a target="_blank" href="https://tinyhref.com/anenyc">Anh Nhớ Em Người Yêu Cũ</a> - Minh Vương.</div>
