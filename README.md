@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.62999-1780293157915/doraemon-mon-qua-la-chuyen-du-lich-viet-nam-cover.webp" alt="Doraemon: Món quà là chuyến du lịch Việt Nam"/> <a target="_blank" href="https://tinyhref.com/mqlcdlvn">Doraemon: Món quà là chuyến du lịch Việt Nam</a> - Tập Đặc Biệt.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.83222-1779983779393/come-my-way-cover.jpeg" alt="Come My Way"/> <a target="_blank" href="https://tinyhref.com/comemyway">Come My Way</a> - Sơn Tùng M-TP x Tyga.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hn@1.1.94544-1778322994164/take-me-to-your-heart-cover.jpeg" alt="Take Me To Your Heart"/> <a target="_blank" href="https://tinyhref.com/takemetoyourheart">Take Me To Your Heart</a> - Michael Learns To Rock.</div>
 <div><img width="16" src="https://esm.sh/file-public-cdn-hcm@1.1.47934-1777696856373/my-love-cover.jpeg" alt="My Love"/> <a target="_blank" href="https://tinyhref.com/mylove">My Love</a>.</div>
