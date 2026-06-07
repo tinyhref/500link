@@ -7,6 +7,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-dn@1.1.45323-1780799177151/ho-linh-trang-si-poster.jpg" alt="Hộ Linh Tráng Sĩ"/> <a target="_blank" href="https://tinyhref.com/holinhtrangsi">Hộ Linh Tráng Sĩ</a> - Bí Ẩn Mộ Vua Đinh.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-hcm@1.1.83222-1779983779393/come-my-way-cover.jpeg" alt="Come My Way"/> <a target="_blank" href="https://tinyhref.com/comemyway">Come My Way</a> - Sơn Tùng M-TP x Tyga.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hn@1.1.46824-1777523127451/phia-sau-mot-co-gai-cover.jpg" alt="Phía Sau Một Cô Gái"/> <a target="_blank" href="https://tinyhref.com/phiasaumotcogai">Phía Sau Một Cô Gái</a> - Soobin Hoàng Sơn.</div>
 <div><img width="16" src="https://esm.sh/file-cdn-free-hcm@1.1.83876-1777520833122/thinh-vuong-viet-nam-sang-ngoi-cover.jpeg" alt="Thịnh Vượng Việt Nam Sáng Ngời"/> <a target="_blank" href="https://tinyhref.com/tvvnsn">Thịnh Vượng Việt Nam Sáng Ngời</a> - buitruonglinh.</div>
