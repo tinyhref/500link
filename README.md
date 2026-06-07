@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/cdn-free-dn@1.1.45323-1780799177151/ho-linh-trang-si-poster.jpg" alt="Hộ Linh Tráng Sĩ"/> <a target="_blank" href="https://tinyhref.com/holinhtrangsi">Hộ Linh Tráng Sĩ</a> - Bí Ẩn Mộ Vua Đinh.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-dn@1.1.61163-1780486995128/avatar-the-last-airbender-poster.jpg" alt="Avatar: The Last Airbender"/> <a target="_blank" href="https://tinyhref.com/avatarthelastairbender">Avatar: The Last Airbender</a> - Only on Netflix.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-hn@1.1.47881-1780321634853/enola-holmes-3-poster.jpg" alt="Enola Holmes 3"/> <a target="_blank" href="https://tinyhref.com/enolaholmes3">Enola Holmes 3</a> - Only on Netflix.</div>
 <div><img width="16" src="https://esm.sh/public-cdn-vi@1.1.62999-1780293157915/doraemon-mon-qua-la-chuyen-du-lich-viet-nam-cover.webp" alt="Doraemon: Món quà là chuyến du lịch Việt Nam"/> <a target="_blank" href="https://tinyhref.com/mqlcdlvn">Doraemon: Món quà là chuyến du lịch Việt Nam</a> - Tập Đặc Biệt.</div>
