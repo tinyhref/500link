@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/waxVImv.png" alt="break-line"/>
 
+<div><img width="16" src="https://esm.sh/file-cdn-free-dn@1.1.95155-1781315020065/teach-you-a-lesson-poster.jpg" alt="Teach You a Lesson"/> <a target="_blank" href="https://tinyhref.com/teachyoualesson">Teach You a Lesson</a> - Only on Netflix.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-dn@1.1.14519-1781107646045/colony.jpg" alt="Colony"/> <a target="_blank" href="https://tinyhref.com/colony">Colony</a>.</div>
 <div><img width="16" src="https://esm.sh/cdn-free-dn@1.1.45323-1780799177151/ho-linh-trang-si-poster.jpg" alt="Hộ Linh Tráng Sĩ"/> <a target="_blank" href="https://tinyhref.com/holinhtrangsi">Hộ Linh Tráng Sĩ</a> - Bí Ẩn Mộ Vua Đinh.</div>
 <div><img width="16" src="https://esm.sh/link-cdn-free-dn@1.1.61163-1780486995128/avatar-the-last-airbender-poster.jpg" alt="Avatar: The Last Airbender"/> <a target="_blank" href="https://tinyhref.com/avatarthelastairbender">Avatar: The Last Airbender</a> - Only on Netflix.</div>
